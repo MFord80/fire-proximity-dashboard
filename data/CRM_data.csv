@@ -1,0 +1,501 @@
+﻿Last_Name,First_Name,Unit,Street_Number,Street_Name,Street_Type,Suburb,Postcode,Full_Address,Number_Adults,Number_Children,Lat,Long,Primaty_Phone,Emergency_Phone,Risk
+Abbott,Venus,,15,Christensen,Avenue,Stonefield,6037,"15 Christensen Avenue, Stonefield 6037",1,0,-31.86319393,115.9719558,0417653699,0410031384,LOW
+Acevedo,Hayfa,,40,Kline,Street,Stonefield,6032,"40 Kline Street, Stonefield 6037",3,0,-32.03412203,115.9570962,0459935769,0410122956,MED
+Adkins,Thomas,,35,Howe,Street,Billayong,6032,"35 Howe Street, Billayong 6032",1,2,-32.07632594,115.9411167,0428012185,0410441931,LOW
+Aguilar,Kyle,,17,Sweeney,Road,Albadale,6032,"17 Sweeney Road, Albadale 6032",2,1,-32.08052004,115.9078885,0467702333,0411168883,LOW
+Aguirre,Melinda,,11,Pickett,Way,South Cobrook,6064,"11 Pickett Way, South Cobrook 6064",3,0,-32.01498402,116.2638962,0448987242,0411324263,LOW
+Albert,Forrest,Unit 2,43,Barnes,Street,St Spencer,6051,"Unit 2, 43 Barnes Street, St Spencer 6051",2,1,-31.86936125,116.2028286,(08) 65317092,0411934451,LOW
+Alexander,Dorothy,,12,Hess,Street,South Cobrook,6021,"12 Hess Street, South Cobrook 6021",1,2,-31.8631981,116.1215957,0488101608,0412037747,MED
+Alford,Sage,,14,Watson,Road,Greenville,6084,"14 Watson Road, Greenville 6084",2,3,-31.91497136,116.1893151,0488444335,0412350332,LOW
+Allison,Nelle,,16,Dunlap,Road,Stonefield,6051,"16 Dunlap Road, Stonefield 6051",3,2,-31.9350962,115.9563554,0469972945,0412710752,MED
+Allison,Quinlan,,42,Myers,Road,Swan Brook,6058,"42 Myers Road, Swan Brook 6058",2,0,-31.98597242,116.0284881,0428219052,0412904893,LOW
+Alvarado,Phillip,,21,Delaney,Street,St Spencer,6032,"21 Delaney Street, St Spencer 6032",3,2,-32.0088812,115.939464,0418616245,0413133378,LOW
+Alvarez,Samuel,,38,Wilkins,Road,Henley Creek,6095,"38 Wilkins Road, Henley Creek 6095",5,7,-31.96190523,116.0258755,0492795212,0413134890,MED
+Armstrong,Amery,,35,Moses,Street,Mount Woorup,6042,"35 Moses Street, Mount Woorup 6059",3,0,-31.9304365,115.9069736,(08) 67429845,0413178901,LOW
+Armstrong,Grace,,54,Mcknight,Street,Mount Woorup,6059,"54 Mcknight Street, Mount Woorup 6059",1,2,-32.0740945,115.9837784,0436781237,0413609243,LOW
+Armstrong,Kyra,,40,Hooper,Street,Mount Woorup,6059,"40 Hooper Street, Mount Woorup 6059",1,0,-32.02536584,116.1371575,0436380217,0413535407,MED
+Atkinson,Heather,,54,Hickman,Circle,St Spencer,6032,"54 Hickman Circle, St Spencer 6032",2,1,-32.05560992,115.9292069,0446234889,0414005519,MED
+Avery,Megan,,33,Robertson,Street,St Spencer,6058,"33 Robertson Street, St Spencer 6058",1,2,-31.83302343,115.9788356,0426763559,0414812383,MED
+Ayala,Howard,,38,Goodwin,Street,Swan Weir,6037,"38 Goodwin Street, Swan Weir 6037",3,1,-31.81390095,115.9602159,0434712825,0415247671,MED
+Ayers,Ignatius,,12,Lowery,Street,Swan Weir,6032,"12 Lowery Street, Swan Weir 6032",2,0,-32.02440217,115.928129,0471289864,0415726539,LOW
+Bailey,Nola,,44,Roach,Road,Wilis Vale,6032,"44 Roach Road, Wilis Vale 6032",1,2,-32.05269071,115.9402536,0432447927,0415790833,LOW
+Baker,Bernard,,47,Skinner,Street,Marricup,6058,"47 Skinner Street, Marricup 6058",2,2,-31.82796432,116.2940243,(08) 98150419,0416654661,LOW
+Baker,Beau,,35,Lancaster,Road,Cloverwater,6090,"35 Lancaster Road, Cloverwater 6090",2,5,-31.90430727,115.9661954,0467306499,0416088689,MED
+Ballard,Quon,,19,Page,Street,St Spencer,6059,"19 Page Street, St Spencer 6059",2,2,-31.97780652,116.0940173,0413496723,0416758669,LOW
+Barker,Nita,,40,Stewart,Street,Mount Woorup,6095,"40 Stewart Street, Mount Woorup 6095",2,7,-31.97790945,115.9178265,0433479876,0417119634,LOW
+Barlow,Sigourney,,8,Crawford,Street,Cubbin,6037,"8 Crawford Street, Cubbin 6037",1,1,-31.95882832,116.0864644,0466777392,0417131573,MED
+Barton,Slade,Unit 5,22,Bond,Avenue,Swan Brook,6016,"Unit 5, 22 Bond Avenue, Swan Brook 6016",4,3,-31.86894962,115.9658957,0497557012,0417168772,MED
+Barton,Aristotle,Unit 3,59,Patterson,Road,East Helena,6037,"Unit 3, 59 Patterson Road, East Helena 6037",2,1,-32.05960259,116.0967376,0422113235,0417143641,MED
+Bass,Glenna,,9,Thomas,Avenue,Albadale,6090,"9 Thomas Avenue, Albadale 6090",3,0,-31.91361432,116.2095033,(08) 98646423,0417194836,LOW
+Baxter,Kerry,,18,Daugherty,Street,High Canning,6032,"18 Daugherty Street, High Canning 6032",2,4,-32.05868534,115.9467437,0432025733,0417308009,LOW
+Beck,Tasha,,22,Turner,Road,Bentley Valley,6021,"22 Turner Road, Bentley Valley 6021",2,0,-31.82464235,115.9981205,(08) 62033407,0417586877,LOW
+Bell,Palmer,,14,Hess,Street,High Canning,6037,"14 Hess Street, High Canning 6037",1,1,-31.87199325,115.9463419,0487884851,0418020779,LOW
+Benjamin,Nerea,,35,Shields,Street,Swan Brook,6032,"35 Shields Street, Swan Brook 6032",1,0,-32.08597684,115.9000706,0462861153,0418052822,LOW
+Benson,Nicole,,37,Potter,Avenue,Albadale,6048,"37 Potter Avenue, Albadale 6048",2,2,-31.80430438,115.9771333,0470850137,0418203949,LOW
+Berg,Jonah,,5,Compton,Street,Marricup,6032,"5 Compton Street, Marricup 6032",1,2,-32.00669173,115.9185666,0423102986,0418733971,HIGH
+Best,Lacota,,32,Prince,Street,Marabelling,6048,"32 Prince Street, Marabelling 6048",2,3,-31.8759085,115.9981324,0451506249,0418762990,MED
+Blackburn,Moana,,37,Taylor,Street,Billayong,6084,"37 Taylor Street, Billayong 6084",1,3,-31.98597847,116.0073088,0484410396,0418795432,LOW
+Blackwell,Alec,,38,Hooper,Street,Stonefield,6016,"38 Hooper Street, Stonefield 6016",1,1,-31.83463342,116.0398844,0453119071,0419485576,LOW
+Blackwell,Salvador,,13,Banks,Road,High Canning,6016,"13 Banks Road, High Canning 6016",1,0,-31.80265254,116.1762176,0453592129,0419144609,MED
+Blackwell,Jarrod,,37,Lang,Street,South Cobrook,6059,"37 Lang Street, South Cobrook 6059",2,3,-31.92997129,116.295426,0457297881,0418931915,MED
+Blake,Keith,,8,Cook,Road,Marabelling,6090,"8 Cook Road, Marabelling 6090",2,0,-32.02269857,116.077668,0468199576,0419769538,MED
+Blankenship,Sade,,17,Mercer,Street,Swan Brook,6021,"17 Mercer Street, Swan Brook 6021",1,1,-31.83663399,115.905699,0418489767,0420266573,MED
+Blankenship,Merritt,,39,Reid,Street,Stonefield,6037,"39 Reid Street, Stonefield 6037",2,0,-31.95290922,115.9423547,0433306768,0419877866,MED
+Blankenship,Petra,,23,Mccarthy,Avenue,Cubbin,6095,"23 Mccarthy Avenue, Cubbin 6095",1,1,-31.90070264,116.0477134,0424238642,0420011780,LOW
+Bond,Kadeem,,36,Cochran,Street,South Cobrook,6032,"36 Cochran Street, South Cobrook 6032",2,1,-32.08921965,115.9073143,0465244903,0420350967,MED
+Boone,Alden,,15,Duffy,Avenue,Greenville,6032,"15 Duffy Avenue, Greenville 6032",2,0,-31.85889129,115.9520974,0416597803,0420728252,MED
+Bradford,Barclay,,23,Mcdonald,Road,Henley Creek,6048,"23 Mcdonald Road, Henley Creek 6048",3,0,-32.06333524,115.9751767,0465451136,0421200513,LOW
+Bradshaw,Kimberley,,35,Cline,Street,High Canning,6021,"35 Cline Street, High Canning 6021",2,0,-31.8127643,116.0125112,0430295827,0421471565,LOW
+Brady,Ava,,45,King,Road,Blue Hill,6027,"45 King Road, Blue Hill 6027",1,2,-31.84888163,115.9381387,0497911949,0421615202,MED
+Branch,Mufutau,,39,Lang,Street,Swan Brook,6051,"39 Lang Street, Swan Brook 6051",1,2,-32.04773413,115.9191674,0484605065,0421794397,MED
+Brewer,Hope,,23,Jordan,Road,Wilis Vale,6095,"23 Jordan Road, Wilis Vale 6095",1,3,-31.95297018,116.0493584,0459211578,0421954636,MED
+Browning,Veronica,,55,Hopper,Street,St Spencer,6032,"55 Hopper Street, St Spencer 6032",2,3,-32.00735675,115.9157656,0483535633,0422229746,LOW
+Bruce,Fletcher,,37,Joyner,Street,Lesley Mills,6021,"37 Joyner Street, Lesley Mills 6021",2,0,-31.86049438,115.9004973,0485670817,0422236855,HIGH
+Bryant,Nelle,,13,Medina,Road,High Canning,6037,"13 Medina Road, High Canning 6037",2,1,-31.9691621,115.9927818,0431793536,0422369753,MED
+Buchanan,Charity,,39,Jacobson,Road,Bentley Valley,6048,"39 Jacobson Road, Bentley Valley 6048",5,2,-31.93445931,116.0115946,0411400822,0422419396,MED
+Buchanan,Joseph,,38,Fry,Street,Blue Hill,6058,"38 Fry Street, Blue Hill 6058",1,2,-31.95827586,116.2475849,0430314313,0422630661,LOW
+Buckley,Yvette,,14,Dalton,Street,Mount Woorup,6058,"14 Dalton Street, Mount Woorup 6058",1,1,-31.94896516,116.0197246,0432866606,0422722594,MED
+Burris,Hanae,,14,Pollard,Street,Swan Brook,6056,"14 Pollard Street, Swan Brook 6056",2,2,-31.9145597,116.0911792,0450820281,0422791024,LOW
+Cabrera,Kelly,,36,Barnett,Street,East Cubbin,6078,"36 Barnett Street, East Cubbin 6078",2,1,-31.94888046,116.0755489,0426576103,0422867897,LOW
+Cain,Kasper,,11,Cummings,Road,Blue Hill,6059,"11 Cummings Road, Blue Hill 6059",2,2,-31.97635182,116.2225692,(08) 68763964,0423368491,MED
+Caldwell,Ishmael,,24,Whitehead,Street,Swan Weir,6048,"24 Whitehead Street, Swan Weir 6048",2,1,-31.81998948,116.0564762,0460927923,0423795945,LOW
+Campos,Matthew,,41,Rush,Street,Blue Hill,6058,"41 Rush Street, Blue Hill 6058",2,0,-32.04836385,116.2346547,0467817477,0423938763,MED
+Cardenas,Price,,15,Neal,Way,Lesley Mills,6016,"15 Neal Way, Lesley Mills 6016",2,1,-31.85266037,115.9695876,0482915227,0424096680,LOW
+Carrillo,Jonas,,40,Christensen,Road,Swan Weir,6021,"40 Christensen Road, Swan Weir 6021",1,1,-31.81042122,115.9234165,0439603258,0424409933,LOW
+Carrillo,Scarlet,,42,Parker,Avenue,Lesley Mills,6051,"42 Parker Avenue, Lesley Mills 6051",1,0,-31.98735852,116.0294361,(08) 98716322,0424789966,LOW
+Carrillo,Christian,,43,Irwin,Road,Stonefield,6058,"43 Irwin Road, Stonefield 6058",5,1,-31.80404139,116.0211333,0464221093,0424124370,MED
+Carroll,Christopher,,41,Hunt,Avenue,Forest Glade,6032,"41 Hunt Avenue, Forest Glade 6032",1,0,-32.0436614,115.9031114,0499903209,0424796249,LOW
+Casey,Helen,,39,Carroll,Road,Billayong,6016,"39 Carroll Road, Billayong 6016",2,2,-31.89521185,115.9284044,0457418275,0424833956,MED
+Cash,Rowan,,19,Davenport,Road,Wilis Vale,6084,"19 Davenport Road, Wilis Vale 6084",2,2,-31.91848859,116.1364886,0412520016,0424926265,LOW
+Castaneda,Barclay,,34,Shields,Road,Wilis Vale,6064,"34 Shields Road, Wilis Vale 6064",1,1,-31.81438932,116.0723399,0432112228,0425126723,LOW
+Castillo,Abraham,,35,Barnett,Street,Cubbin,6042,"35 Barnett Street, Cubbin 6042",5,1,-31.91087357,115.941479,0482614959,0425154063,LOW
+Chambers,Abbot,,45,Wade,Road,Forest Glade,6037,"45 Wade Road, Forest Glade 6037",2,4,-32.09083239,115.9332446,0469952007,0425215703,LOW
+Chang,Galvin,,18,Wynn,Loop,East Helena,6021,"18 Wynn Loop, East Helena 6021",1,2,-31.87275332,116.1174606,0461134779,0425394697,MED
+Chang,Victoria,,38,Barrett,Road,Blue Hill,6021,"38 Barrett Road, Blue Hill 6021",3,0,-31.88874682,115.9028884,0427764527,0425225769,LOW
+Chang,Brent,,56,McCullough,Street,Cubbin,6056,"56 McCullough Street, Cubbin 6056",2,1,-31.81595681,115.9726233,0465846562,0425265823,MED
+Chen,Frances,,34,Randolph,Road,East Cubbin,6032,"34 Randolph Road, East Cubbin 6032",3,2,-32.029489,115.9495318,0436702221,0426620466,LOW
+Chen,Holmes,,17,Park,Road,Albadale,6032,"17 Park Road, Albadale 6032",2,0,-32.04591765,115.993239,0417035114,0426711386,LOW
+Church,Davis,,34,Waller,Road,Mount Woorup,6032,"34 Waller Road, Mount Woorup 6032",2,2,-32.03879435,115.9059832,0481317639,0426732176,HIGH
+Clarke,Orli,,44,Garrison,Road,Cloverwater,6056,"44 Garrison Road, Cloverwater 6056",2,2,-31.84239591,116.0401143,0440720733,0426851997,MED
+Clements,Tad,,15,Webster,Avenue,Henley Creek,6048,"15 Webster Avenue, Henley Creek 6048",2,1,-31.85973064,115.953984,0491919783,0427143997,LOW
+Clements,Clarke,,35,Forbes,Road,Cubbin,6051,"35 Forbes Road, Cubbin 6051",1,0,-32.062138,116.2242047,0495200096,0427610640,LOW
+Cleveland,Sigourney,,19,Tucker,Road,Swan Weir,6042,"19 Tucker Road, Swan Weir 6042",1,1,-31.84235452,115.9454048,(08) 94087803,0427624282,MED
+Cline,Serena,,37,Roman,Avenue,Marabelling,6032,"37 Roman Avenue, Marabelling 6032",2,3,-32.09064264,115.9807798,0448700903,0427779220,LOW
+Cochran,Yardley,,14,McCullough,Road,East Helena,6032,"14 McCullough Road, East Helena 6032",1,1,-32.08321133,115.9756148,0414187675,0428101766,MED
+Coffey,Mark,,11,Dudley,Street,Henley Creek,6016,"11 Dudley Street, Henley Creek 6016",2,3,-31.86474633,116.2278158,(08) 63252500,0428208695,LOW
+Cohen,Hedda,,37,Barnett,Street,Henley Creek,6037,"37 Barnett Street, Henley Creek 6037",1,2,-31.91143488,115.9141269,0490596522,0428432663,LOW
+Coleman,Jorden,,32,Pratt,Street,East Helena,6037,"32 Pratt Street, East Helena 6037",2,1,-31.90513336,116.0345234,(08) 62696818,0428693648,LOW
+Collier,Germaine,,13,Becker,Street,Bentley Valley,6032,"13 Becker Street, Bentley Valley 6032",2,5,-32.06450401,115.9356285,0422757353,0428763145,LOW
+Collier,Lane,,42,Bridges,Loop,Stonefield,6032,"42 Bridges Loop, Stonefield 6032",1,3,-32.08960569,115.9782855,0452581299,0428963150,LOW
+Collier,Norman,,53,Mcintosh,Road,Swan Weir,6048,"53 Mcintosh Road, Swan Weir 6048",1,0,-32.06747854,115.9156292,0461148600,0429461519,LOW
+Compton,Kevin,,40,Webster,Road,Blue Hill,6058,"40 Webster Road, Blue Hill 6058",1,1,-32.04012121,116.0178927,0484557806,0429504912,LOW
+Conner,Dante,,17,Fields,Road,St Spencer,6058,"17 Fields Road, St Spencer 6058",2,1,-31.84381327,115.9797464,(08) 93024894,0429774627,LOW
+Conrad,Althea,,47,Glover,Circle,Swan Brook,6016,"47 Glover Circle, Swan Brook 6016",2,2,-31.84671419,115.9998222,0496050861,0430012011,LOW
+Conrad,Amir,,18,Pace,Avenue,Swan Brook,6048,"18 Pace Avenue, Swan Brook 6048",2,0,-32.05349038,116.2710392,0493760609,0430247657,LOW
+Conway,Jameson,,9,Crawford,Street,East Cubbin,6016,"9 Crawford Street, East Cubbin 6016",2,2,-31.88396167,116.2103271,0462321915,0430374159,MED
+Conway,Jemima,,42,Hoover,Street,Bentley Valley,6051,"42 Hoover Street, Bentley Valley 6051",1,1,-32.00521578,116.1331617,0427141080,0430682188,MED
+Cooley,Chiquita,,53,Walter,Street,Lesley Mills,6058,"53 Walter Street, Lesley Mills 6058",1,1,-31.87365727,115.9489247,0496114771,0431119178,HIGH
+Cooley,Yoshio,,7,Osborne,Street,High Canning,6090,"7 Osborne Street, High Canning 6090",1,2,-32.07501429,115.9434782,0448254549,0430855392,LOW
+Cotton,Teagan,,14,Sanford,Street,Mount Woorup,6078,"14 Sanford Street, Mount Woorup 6078",1,1,-31.99749513,116.0734005,0443604828,0431315394,LOW
+Cotton,Ifeoma,,36,Walsh,Avenue,Bentley Valley,6095,"36 Walsh Avenue, Bentley Valley 6095",1,1,-31.97895478,115.9017534,0412610709,0431494607,MED
+Cox,Nola,,13,Watkins,Avenue,Forest Glade,6027,"13 Watkins Avenue, Forest Glade 6027",2,2,-31.89861009,115.9426334,0485804322,0431528541,LOW
+Cox,Yvonne,,4,Combs,Street,Lesley Mills,6056,"4 Combs Street, Lesley Mills 6056",2,1,-31.80980221,116.0903697,0414578737,0431503710,LOW
+Craft,Xanthus,,13,Hopper,Road,South Cobrook,6058,"13 Hopper Road, South Cobrook 6058",1,0,-31.83390005,115.928743,0485550669,0431667329,LOW
+Craig,Lucian,,14,Banks,Street,South Cobrook,6048,"14 Banks Street, South Cobrook 6048",1,1,-31.97075684,115.9336549,0433338584,0432112975,LOW
+Crosby,Roary,,16,Owen,Street,Wilis Vale,6016,"16 Owen Street, Wilis Vale 6016",1,3,-31.87617374,115.9682269,0470301929,0432116524,LOW
+Cross,Freya,,8,Baird,Street,Mount Woorup,6048,"8 Baird Street, Mount Woorup 6048",1,0,-31.85917339,116.0053334,0448054087,0432566324,LOW
+Cummings,Aileen,,13,Mcconnell,Street,Albadale,6037,"13 Mcconnell Street, Albadale 6037",1,3,-32.0156464,115.9306216,0457689791,0432626555,LOW
+Cunningham,Noelle,,43,Powell,Avenue,Lesley Mills,6058,"43 Powell Avenue, Lesley Mills 6058",1,0,-31.80730506,115.9469278,0474985684,0433023523,LOW
+Cunningham,Beverly,,15,Lynn,Street,Cloverwater,6078,"15 Lynn Street, Cloverwater 6078",2,1,-32.06096245,116.0837311,0436196001,0432637759,MED
+Dalton,Portia,,39,William,Street,Blue Hill,6037,"39 William Street, Blue Hill 6037",2,0,-31.85697391,115.9422938,0417611743,0433208751,LOW
+Daniel,Beau,,34,Rojas,Road,Marricup,6016,"34 Rojas Road, Marricup 6016",1,2,-31.87008623,115.9478979,0444615569,0433728285,MED
+Daugherty,Ciara,Unit 3,16,Bright,Road,Cloverwater,6064,"Unit 3, 16 Bright Road, Cloverwater 6064",2,3,-31.81650266,116.1919039,0431931219,0433839984,MED
+Davenport,Clayton,Unit 3,14,Terry,Avenue,Marabelling,6056,"Unit 3, 14 Terry Avenue, Marabelling 6056",2,0,-32.08973097,116.288336,0493248200,0434082693,LOW
+Davidson,Kiayada,,54,Powers,Street,Marricup,6090,"54 Powers Street, Marricup 6090",1,1,-31.91744785,116.1376588,0499121680,0434159279,MED
+Davis,Jeremy,,23,Dyer,Street,High Canning,6032,"23 Dyer Street, High Canning 6032",1,1,-32.04991441,115.9793937,0464110500,0434203652,MED
+Dean,Suki,,16,Green,Road,Swan Brook,6021,"16 Green Road, Swan Brook 6021",2,2,-31.80518286,115.9513452,(08) 99553182,0434303089,LOW
+Decker,Raja,,14,Marks,Road,Briganup,6032,"14 Marks Road, Briganup 6032",1,1,-32.08660323,115.9408172,(08) 65138378,0434457241,LOW
+Decker,Cedric,,23,Tyson,Road,South Cobrook,6078,"23 Tyson Road, South Cobrook 6078",2,1,-32.01601845,115.9860086,0495347483,0434391707,MED
+Dillard,Hedley,,34,McCullough,Street,East Cubbin,6032,"34 McCullough Street, East Cubbin 6032",1,0,-32.09787796,115.9048969,0468145514,0435024085,LOW
+Dillard,Laurel,,39,Hooper,Avenue,Swan Weir,6048,"39 Hooper Avenue, Swan Weir 6048",2,7,-31.99686735,116.0118285,0487392063,0435012912,MED
+Dominguez,Kasimir,,16,Sandoval,Road,Swan Weir,6042,"16 Sandoval Road, Swan Weir 6042",2,2,-31.89129669,116.0477558,0462391546,0435090835,MED
+Donaldson,Aaron,,16,Jacobson,Street,Mount Woorup,6037,"16 Jacobson Street, Mount Woorup 6037",1,2,-32.04076316,116.047571,0493189782,0435158110,LOW
+Dorsey,Yoshio,,34,Howe,Street,East Helena,6021,"34 Howe Street, East Helena 6021",2,1,-31.83168338,115.9225369,0443060625,0435192905,LOW
+Douglas,Alma,,39,McCullough,Street,Billayong,6027,"39 McCullough Street, Billayong 6027",2,0,-31.85346879,115.9274396,(08) 67473487,0435269574,MED
+Drake,Blythe,,12,Mcclain,Street,St Spencer,6058,"12 Mcclain Street, St Spencer 6058",1,2,-32.08740408,115.9002727,0413064391,0435374469,LOW
+Duffy,Eliana,,36,Lang,Road,High Canning,6048,"36 Lang Road, High Canning 6048",1,1,-31.97634294,115.9945084,0453710574,0435509272,MED
+Duke,Mariko,,11,Thomas,Street,Marricup,6016,"11 Thomas Street, Marricup 6016",1,0,-31.81784659,116.0635614,0444983254,0436387412,LOW
+Duke,Melodie,,37,Frederick,Road,Henley Creek,6037,"37 Frederick Road, Henley Creek 6037",1,1,-31.87052464,116.0712464,0437314364,0436064234,LOW
+Duke,Yasir,,24,Donovan,Street,Lesley Mills,6058,"24 Donovan Street, Lesley Mills 6058",1,1,-32.0929755,116.0052946,(08) 98595955,0435911542,MED
+Edwards,Marah,,11,Ballard,Road,Briganup,6037,"11 Ballard Road, Briganup 6037",2,2,-31.95244091,116.0028749,0465354511,0436978476,LOW
+Elliott,Dieter,,42,Tate,Street,Lesley Mills,6042,"42 Tate Street, Lesley Mills 6042",1,1,-31.87177364,116.103791,0428097799,0437082977,LOW
+Elliott,Mara,,34,Sharpe,Road,High Canning,6042,"34 Sharpe Road, High Canning 6042",1,1,-31.97365929,116.0170796,0476391642,0437073311,LOW
+Ellis,Dalton,,58,Skinner,Road,East Helena,6090,"58 Skinner Road, East Helena 6090",1,0,-31.9496624,116.2244039,0469359808,0437131015,MED
+Estrada,Inez,,36,Holt,Circle,Forest Glade,6090,"36 Holt Circle, Forest Glade 6090",2,2,-32.04525768,116.0052939,0476546545,0437481579,LOW
+Everett,MacKensie,,7,Harrison,Road,Greenville,6048,"7 Harrison Road, Greenville 6048",4,1,-31.98156782,115.9698526,0463173736,0437537213,LOW
+Farmer,Tyler,,15,Townsend,Road,Henley Creek,6037,"15 Townsend Road, Henley Creek 6037",2,1,-31.94273721,115.9772293,0417193997,0437749103,MED
+Ferguson,Amery,,35,Walsh,Street,Cloverwater,6051,"35 Walsh Street, Cloverwater 6051",1,0,-32.0803803,115.9232085,0455032357,0437950741,HIGH
+Ferguson,Jared,,36,O'connor,Street,Henley Creek,6058,"36 O'connor Street, Henley Creek 6058",2,1,-31.80566298,116.0570123,0435548776,0437830155,MED
+Fernandez,Walter,,59,Taylor,Road,East Helena,6027,"59 Taylor Road, East Helena 6027",1,0,-31.89547299,115.9060693,0469395827,0438416476,LOW
+Fields,Kirsten,,34,Dyer,Street,Briganup,6021,"34 Dyer Street, Briganup 6021",2,0,-31.89674379,115.9270698,0468210164,0438709678,LOW
+Figueroa,Coby,,12,Dale,Street,Forest Glade,6032,"12 Dale Street, Forest Glade 6032",1,0,-32.01785627,115.9875577,0417876626,0439258256,LOW
+Fitzgerald,Hall,,45,Duran,Street,Cloverwater,6058,"45 Duran Street, Cloverwater 6058",2,1,-31.90074394,115.9325081,0457064936,0439520742,LOW
+Fitzgerald,Veda,,42,Hale,Road,Marricup,6064,"42 Hale Road, Marricup 6064",4,0,-31.93923807,116.0076635,0418117019,0439373872,LOW
+Fletcher,Fatima,,34,Jordan,Street,Swan Brook,6037,"34 Jordan Street, Swan Brook 6037",1,7,-31.88669095,116.0789934,0478785841,0439740957,LOW
+Fletcher,Salvador,,43,Hickman,Street,Swan Brook,6042,"43 Hickman Street, Swan Brook 6042",1,3,-31.91621708,115.9607101,0443295897,0439563740,HIGH
+Forbes,Bell,,46,Christian,Street,Mount Woorup,6032,"46 Christian Street, Mount Woorup 6032",1,5,-32.08265961,115.9034911,0425714775,0439751879,LOW
+Foreman,Kristen,,4,Larsen,Street,Albadale,6037,"4 Larsen Street, Albadale 6037",1,3,-31.82634017,116.0386432,0461991340,0440120716,MED
+Fowler,Lois,,8,Leach,Street,Henley Creek,6032,"8 Leach Street, Henley Creek 6032",1,0,-32.06940745,115.9888443,0426004830,0440161351,HIGH
+Fox,Cecilia,,14,Fields,Street,Cubbin,6032,"14 Fields Street, Cubbin 6032",2,2,-32.04039703,115.9475431,0423249125,0440298049,HIGH
+Franks,Ira,,10,Baldwin,Street,Bentley Valley,6090,"10 Baldwin Street, Bentley Valley 6090",2,0,-31.85497437,116.2821965,0478934821,0440921273,LOW
+French,Hamish,Unit 5,36,England,Street,Swan Brook,6037,"Unit 5, 36 England Street, Swan Brook 6037",1,0,-31.86745163,116.076699,0472605702,0441855017,LOW
+Frost,Nicole,,14,Patterson,Street,Blue Hill,6037,"14 Patterson Street, Blue Hill 6037",2,0,-31.93334026,116.0663243,0464572471,0441901823,LOW
+Fry,Britanney,,36,Simon,Way,St Spencer,6056,"36 Simon Way, St Spencer 6056",1,0,-32.09408619,116.0188408,0494964645,0442270857,HIGH
+Frye,Fuller,,40,Branch,Street,Forest Glade,6037,"40 Branch Street, Forest Glade 6037",3,4,-32.00889766,116.1112232,0444056560,0442286158,LOW
+Frye,Demetrius,,44,Irwin,Street,Swan Weir,6090,"44 Irwin Street, Swan Weir 6090",2,2,-31.86134492,116.0389226,0485159293,0442472013,MED
+Fulton,Anne,,40,Gould,Avenue,Cloverwater,6037,"40 Gould Avenue, Cloverwater 6037",2,0,-32.07006251,116.0197372,0449371603,0443119620,LOW
+Gaines,Gage,,35,Byrd,Avenue,Albadale,6048,"35 Byrd Avenue, Albadale 6048",3,3,-31.98259223,115.9344984,0455811310,0443191354,LOW
+Gaines,Jayme,,7,Cook,Avenue,Billayong,6058,"7 Cook Avenue, Billayong 6058",2,1,-32.02479421,116.1327044,0497945858,0443254794,MED
+Gallegos,Beatrice,,37,Coffey,Street,Wilis Vale,6042,"37 Coffey Street, Wilis Vale 6042",1,2,-31.84491963,116.1836675,0458868254,0443364127,MED
+Gamble,Chester,Unit 6,36,Goodwin,Avenue,Greenville,6051,"Unit 6, 36 Goodwin Avenue, Greenville 6051",2,1,-31.95159502,116.0397848,0448303327,0443365950,LOW
+Garcia,William,Unit 4,35,Lang,Street,Briganup,6016,"Unit 4, 35 Lang Street, Briganup 6016",2,4,-31.81883008,116.2990878,0421644995,0443491706,HIGH
+Garrett,Jenette,,44,Nash,Street,Albadale,6037,"44 Nash Street, Albadale 6037",1,1,-31.93573963,115.9098761,0461433219,0443747159,LOW
+Garrison,Galvin,,32,Hicks,Road,Albadale,6027,"32 Hicks Road, Albadale 6027",3,2,-31.84010232,115.9282916,0498452672,0444303466,MED
+Garrison,Jolie,,10,Thomas,Road,Lesley Mills,6037,"10 Thomas Road, Lesley Mills 6037",4,0,-31.94965342,116.070414,0487218883,0443765453,LOW
+Garrison,Kiona,,47,O'Brien,Street,Cubbin,6095,"47 O'Brien Street, Cubbin 6095",1,2,-31.81001243,115.9586271,0426303709,0444700994,LOW
+Garza,Kareem,,17,Massey,Way,Wilis Vale,6048,"17 Massey Way, Wilis Vale 6048",1,5,-31.81031273,116.0974789,0471769347,0444825257,MED
+Gay,Faith,,8,Stout,Road,South Cobrook,6032,"8 Stout Road, South Cobrook 6032",2,2,-32.0400421,115.9597048,0457243327,0444908842,LOW
+George,Eliana,,5,Payne,Road,Stonefield,6042,"5 Payne Road, Stonefield 6042",2,1,-31.8278288,116.0688255,(08) 91111406,0444918858,LOW
+Gibbs,Sonia,,41,Gould,Road,Bentley Valley,6021,"41 Gould Road, Bentley Valley 6021",1,2,-31.85298247,115.9844113,0434540378,0445804274,MED
+Gibbs,Adara,,43,Wolf,Road,East Helena,6032,"43 Wolf Road, East Helena 6032",2,1,-31.84928685,115.9199148,0494815020,0445744797,LOW
+Gibbs,Carly,,39,Oliver,Avenue,Swan Weir,6084,"39 Oliver Avenue, Swan Weir 6084",2,1,-31.86904062,116.1441866,0469494917,0445032911,MED
+Gibson,Paul,,41,Kent,Avenue,Marabelling,6064,"41 Kent Avenue, Marabelling 6064",1,4,-32.08695301,115.9450156,0482573821,0445879434,LOW
+Gilbert,Chelsea,Unit 2,34,Dyer,Street,South Cobrook,6042,"Unit 2, 34 Dyer Street, South Cobrook 6042",2,2,-31.91006831,115.9004715,0498456289,0446247653,MED
+Gilbert,Destiny,Unit 1,44,Woodard,Street,Henley Creek,6042,"Unit 1, 44 Woodard Street, Henley Creek 6042",1,1,-31.97284078,116.0875058,0421181655,0446037396,MED
+Gill,Rebecca,,14,Dunlap,Street,Swan Weir,6095,"14 Dunlap Street, Swan Weir 6095",4,3,-31.96825686,116.0472553,0429269577,0446470810,MED
+Glass,Dean,,13,Manning,Street,Bentley Valley,6064,"13 Manning Street, Bentley Valley 6064",1,0,-31.93332388,116.049177,(08) 64899563,0446566000,HIGH
+Glenn,Leigh,,6,Osborne,Street,Briganup,6058,"6 Osborne Street, Briganup 6058",1,3,-31.86315551,116.0469567,0479035983,0446576733,LOW
+Glover,Nell,,13,Fields,Street,Marabelling,6056,"13 Fields Street, Marabelling 6056",2,0,-31.85492084,116.0390244,0473568534,0446704773,MED
+Goff,Ray,,43,Beach,Avenue,Mount Woorup,6032,"43 Beach Avenue, Mount Woorup 6032",1,3,-32.07426141,115.9762013,0496663610,0446828176,MED
+Golden,Jena,,39,Bartlett,Road,Forest Glade,6032,"39 Bartlett Road, Forest Glade 6032",5,2,-32.02394506,115.9498249,0455204272,0447417201,LOW
+Gonzalez,Colton,,39,Roth,Street,East Cubbin,6095,"39 Roth Street, East Cubbin 6095",1,1,-32.09844553,115.9267223,0467454087,0447584486,LOW
+Good,Willow,,36,Foreman,Street,East Cubbin,6095,"36 Foreman Street, East Cubbin 6095",1,0,-32.09549214,115.9876163,0481662068,0447699032,LOW
+Goodwin,Orson,,45,Mccullough,Street,Marabelling,6084,"45 Mccullough Street, Marabelling 6084",5,1,-31.96671825,116.0629977,0468269770,0448042782,LOW
+Gordon,Ashely,,8,Henderson,Street,Swan Weir,6032,"8 Henderson Street, Swan Weir 6032",2,0,-31.83813762,115.9247148,0453102146,0448162635,MED
+Gordon,Leonard,,35,Jordan,Avenue,St Spencer,6058,"35 Jordan Avenue, St Spencer 6058",2,0,-31.88175008,116.0968888,0444676956,0448195740,LOW
+Gould,Norman,,57,Fitzgerald,Avenue,East Helena,6048,"57 Fitzgerald Avenue, East Helena 6048",1,2,-31.80699813,115.9295752,0476599648,0448424070,MED
+Graham,Amery,,7,Peters,Avenue,Cloverwater,6021,"7 Peters Avenue, Cloverwater 6021",2,4,-31.83659172,116.1596523,0448539659,0448436723,LOW
+Gray,Sylvia,,34,Burgess,Street,Wilis Vale,6084,"34 Burgess Street, Wilis Vale 6084",2,0,-31.94813882,115.9441548,0488180984,0448442618,LOW
+Griffin,Asher,,37,Hooper,Street,Greenville,6037,"37 Hooper Street, Greenville 6037",2,3,-32.09742511,116.0558808,0472061027,0448470957,MED
+Grimes,Latifah,,16,Giles,Street,South Cobrook,6090,"16 Giles Street, South Cobrook 6090",1,3,-31.88555813,115.9946882,0421045864,0448509600,MED
+Gutierrez,Rhoda,,14,Brown,Road,Bentley Valley,6032,"14 Brown Road, Bentley Valley 6032",1,1,-32.06779949,115.9674906,0445084989,0448851970,LOW
+Gutierrez,Elijah,,42,Hyde,Street,Greenville,6048,"42 Hyde Street, Greenville 6048",2,0,-31.97983765,115.9730826,0457838654,0448837234,MED
+Guzman,Ronan,,39,Saunders,Street,Cloverwater,6037,"39 Saunders Street, Cloverwater 6037",2,1,-31.82779089,116.1385118,0470246795,0448908733,LOW
+Guzman,Hayley,,38,Romero,Street,Cubbin,6051,"38 Romero Street, Cubbin 6051",3,3,-31.83217351,116.0952653,0444513318,0448876136,LOW
+Guzman,Wyoming,,40,Orr,Street,Mount Woorup,6056,"40 Orr Street, Mount Woorup 6056",1,3,-32.09472388,115.9427786,0479478585,0449019968,LOW
+Hahn,Oren,,54,Barnes,Circle,Albadale,6095,"54 Barnes Circle, Albadale 6095",1,1,-31.86638033,115.9722704,0434743269,0449243454,LOW
+Hale,Prescott,,57,Whitehead,Street,Greenville,6037,"57 Whitehead Street, Greenville 6037",1,2,-31.96978265,116.0688942,0472178699,0449293058,LOW
+Hall,Sopoline,,13,Dale,Street,Swan Weir,6037,"13 Dale Street, Swan Weir 6037",2,3,-31.91065622,116.1098008,0458565328,0449408703,HIGH
+Hall,Carissa,,15,Marshall,Road,High Canning,6056,"15 Marshall Road, High Canning 6056",1,0,-32.06537394,116.007995,0496939728,0449451546,MED
+Hamilton,Lee,,23,Shaw,Street,South Cobrook,6078,"23 Shaw Street, South Cobrook 6078",1,2,-31.90615991,115.9046176,0480136740,0449589881,MED
+Hardin,Deborah,,36,Cabrera,Avenue,Lesley Mills,6058,"36 Cabrera Avenue, Lesley Mills 6058",1,1,-31.957492,115.9472366,0415191575,0449750868,LOW
+Harding,Amity,,37,Walter,Road,Briganup,6037,"37 Walter Road, Briganup 6037",1,0,-32.09597232,116.1632145,0490465308,0449822062,LOW
+Harding,Fritz,,8,Osborne,Avenue,South Cobrook,6037,"8 Osborne Avenue, South Cobrook 6037",1,1,-32.06192493,115.9750932,0442517525,0449807415,LOW
+Harrell,Aristotle,,44,King,Street,Henley Creek,6032,"44 King Street, Henley Creek 6032",2,0,-31.83905414,115.9432241,0474024291,0449987054,MED
+Harrell,Griffin,,37,Hess,Street,Wilis Vale,6032,"37 Hess Street, Wilis Vale 6032",2,2,-32.00829101,115.9983331,0468194783,0449895882,MED
+Harrell,Karyn,,15,Hopkins,Street,High Canning,6037,"15 Hopkins Street, High Canning 6037",1,3,-31.97948627,116.016256,0483016183,0450025772,HIGH
+Harris,Leilani,,48,Tate,Avenue,Marricup,6032,"48 Tate Avenue, Marricup 6032",2,3,-32.01095983,115.981424,(08) 66363923,0450241643,MED
+Harris,Amaya,,39,Stewart,Avenue,Swan Weir,6051,"39 Stewart Avenue, Swan Weir 6051",1,1,-31.94094865,115.9386086,0474626526,0450671114,MED
+Harrison,Rashad,,48,Haley,Street,East Helena,6032,"48 Haley Street, East Helena 6032",1,0,-32.0789007,115.929311,0485951236,0451006546,HIGH
+Hart,Phillip,Unit 3,22,Horn,Street,Lesley Mills,6078,"Unit 3, 22 Horn Street, Lesley Mills 6078",1,0,-32.08535407,116.0293397,0411452647,0451434517,LOW
+Hart,Timon,Unit 12,43,Nash,Road,St Spencer,6090,"Unit 12, 43 Nash Road, St Spencer 6090",1,2,-31.86239768,116.0494553,0481820022,0451128073,LOW
+Harvey,Tobias,,43,Rich,Road,Bentley Valley,6078,"43 Rich Road, Bentley Valley 6078",3,2,-31.92508699,116.0982657,0479256394,0451465756,MED
+Hatfield,Avram,,34,Butler,Road,St Spencer,6032,"34 Butler Road, St Spencer 6032",2,1,-32.0085871,115.91269,0469159214,0451617203,LOW
+Hawkins,Ian,,44,Benton,Street,High Canning,6058,"44 Benton Street, High Canning 6058",2,3,-31.92220817,115.9094347,0483975623,0451622298,MED
+Hayes,Beau,,16,Skinner,Avenue,Albadale,6032,"16 Skinner Avenue, Albadale 6032",2,1,-32.03098051,115.9723754,0483411696,0451997611,LOW
+Hebert,Maya,Unit 4,43,Kim,Circle,East Cubbin,6042,"Unit 4, 43 Kim Circle, East Cubbin 6042",1,3,-31.94336295,115.9643662,0441989547,0452174283,LOW
+Henson,Justine,,39,Fry,Road,Forest Glade,6037,"39 Fry Road, Forest Glade 6037",2,5,-31.85122568,116.0555398,0435374412,0452213528,MED
+Herrera,Chava,,12,Fields,Road,Billayong,6032,"12 Fields Road, Billayong 6032",1,2,-32.00181193,115.9329421,0464829874,0452800755,LOW
+Hester,Vielka,,43,Russell,Street,Greenville,6021,"43 Russell Street, Greenville 6021",2,0,-31.83991937,115.9384362,0499661919,0452828655,LOW
+Hester,Quin,,33,Bonner,Street,St Spencer,6048,"33 Bonner Street, St Spencer 6048",1,4,-32.05900552,116.0272449,0437953079,0452833135,HIGH
+Hicks,Zoe,,38,Oliver,Road,Stonefield,6027,"38 Oliver Road, Stonefield 6027",1,2,-31.86798319,115.9730656,0491146575,0453300848,LOW
+Hinton,Rashad,,26,Farley,Street,Marricup,6078,"26 Farley Street, Marricup 6078",3,3,-31.89422008,115.9221358,0423932910,0453401508,LOW
+Hodge,Jennifer,,18,Guthrie,Road,St Spencer,6032,"18 Guthrie Road, St Spencer 6032",2,1,-32.04017237,115.9478937,0426700332,0453494325,MED
+Hodge,Chase,,15,Kirby,Street,Greenville,6056,"15 Kirby Street, Greenville 6056",2,1,-32.02275483,116.0517287,0424264797,0453545572,MED
+Hodges,Alyssa,,32,Hodges,Street,Marricup,6056,"32 Hodges Street, Marricup 6056",1,0,-31.99351517,116.0520572,(08) 94592497,0453717995,LOW
+Hoffman,Yuri,,37,Mosley,Street,Bentley Valley,6064,"37 Mosley Street, Bentley Valley 6064",1,0,-32.0719832,116.2594642,0438959619,0453926590,MED
+Holloway,Steel,,16,Mccray,Road,Marricup,6042,"16 Mccray Road, Marricup 6042",2,0,-31.86234685,116.0207824,0463703282,0453969631,LOW
+Holt,Timon,,36,Mosley,Street,Cloverwater,6078,"36 Mosley Street, Cloverwater 6078",4,1,-31.96016136,116.2022011,0486521149,0454413851,LOW
+Horne,Bethany,,7,Lawrence,Street,East Helena,6021,"7 Lawrence Street, East Helena 6021",1,1,-31.89913558,116.0505697,(08) 98068211,0454501609,LOW
+Horton,Carolyn,Unit 6,14,Thomas,Road,Billayong,6059,"Unit 6, 14 Thomas Road, Billayong 6059",1,0,-31.9141565,115.9358913,0429729216,0454629523,LOW
+House,Brielle,,15,Mccormick,Road,Lesley Mills,6021,"15 Mccormick Road, Lesley Mills 6021",2,0,-31.88975173,116.2559626,0432278164,0454967163,LOW
+House,Ivana,,15,Daniels,Street,Cloverwater,6037,"15 Daniels Street, Cloverwater 6037",2,7,-31.88142332,116.2903995,0485850905,0454883320,LOW
+House,Emerson,Unit 3,37,Goodwin,Road,Stonefield,6095,"Unit 3, 37 Goodwin Road, Stonefield 6095",1,0,-31.88564638,115.920614,0440786985,0454704363,MED
+Howard,Cheryl,,39,Hubbard,Street,Henley Creek,6032,"39 Hubbard Street, Henley Creek 6032",2,0,-32.02685569,115.9374146,0467385008,0455114631,LOW
+Howard,Kermit,,17,Hale,Road,Lesley Mills,6078,"17 Hale Road, Lesley Mills 6078",3,0,-31.93510776,115.928898,0439542331,0455037873,LOW
+Huber,Amelia,,35,Flowers,Street,Billayong,6059,"35 Flowers Street, Billayong 6059",1,3,-31.80753628,116.0134889,0485364191,0455210771,LOW
+Humphrey,Dane,,34,Barnett,Street,Marabelling,6032,"34 Barnett Street, Marabelling 6032",2,0,-32.07415069,115.9499871,0450593722,0455280325,MED
+Hunter,Ferdinand,,12,Barber,Street,Wilis Vale,6059,"12 Barber Street, Wilis Vale 6059",2,3,-32.08642688,115.9193135,0450612535,0455465360,LOW
+Hurley,Jaden,,35,Holmes,Street,Blue Hill,6058,"35 Holmes Street, Blue Hill 6058",2,2,-31.85804597,115.9280565,0471804298,0455915778,HIGH
+Hurst,Kai,,36,Mcgowan,Street,Greenville,6037,"36 Mcgowan Street, Greenville 6037",1,1,-31.8438016,116.2606226,0432296049,0456159842,MED
+Jacobson,Baxter,,43,Charles,Road,Henley Creek,6051,"43 Charles Road, Henley Creek 6051",1,2,-32.06648872,116.0890188,(08) 69493882,0456305369,MED
+Jimenez,Carly,,17,Weber,Loop,East Helena,6032,"17 Weber Loop, East Helena 6032",1,2,-32.0910007,115.981813,0455457915,0456501554,MED
+Johns,Deborah,,57,Clayton,Avenue,Cloverwater,6042,"57 Clayton Avenue, Cloverwater 6042",1,4,-31.87079366,116.0835917,0476805549,0456859164,MED
+Johns,Illiana,,25,Mccarthy,Street,Marabelling,6051,"25 Mccarthy Street, Marabelling 6051",2,2,-32.04954248,115.9782391,0425411038,0456684589,LOW
+Johnston,Pearl,,41,Skinner,Road,Lesley Mills,6048,"41 Skinner Road, Lesley Mills 6048",2,0,-31.91476334,116.0250602,0496858076,0457036610,MED
+Joseph,Kaseem,,41,Stewart,Street,Cloverwater,6037,"41 Stewart Street, Cloverwater 6037",2,4,-31.99694265,116.1015114,0412253289,0457417817,MED
+Joyner,Ivana,,37,Patterson,Street,Henley Creek,6058,"37 Patterson Street, Henley Creek 6058",1,0,-32.00189151,116.0553809,0484709265,0457664057,MED
+Kane,Macey,,40,Bartlett,Street,Greenville,6042,"40 Bartlett Street, Greenville 6042",2,0,-31.87802806,115.9267133,0428587206,0458008891,LOW
+Keith,Ignatius,,56,Wallace,Street,Greenville,6016,"56 Wallace Street, Greenville 6016",2,3,-31.86925741,116.066113,0439888182,0458159355,HIGH
+Keith,Regan,,13,Hess,Road,Briganup,6058,"13 Hess Road, Briganup 6058",2,1,-31.93025185,116.1704841,(08) 69190811,0458107705,LOW
+Kelly,Angela,,6,Stout,Street,Briganup,6037,"6 Stout Street, Briganup 6037",2,3,-32.0341112,116.1197343,0417842569,0458453300,LOW
+Kemp,Gwendolyn,,42,Kidd,Street,Cubbin,6032,"42 Kidd Street, Cubbin 6032",3,3,-32.02645917,115.9040589,0499448347,0458954414,MED
+Kemp,Garrett,,44,Cherry,Avenue,Blue Hill,6095,"44 Cherry Avenue, Blue Hill 6095",2,0,-31.84329777,115.9402315,0435379145,0459248164,HIGH
+Kennedy,Callie,,42,Gamble,Road,Swan Weir,6027,"42 Gamble Road, Swan Weir 6027",1,1,-31.88862691,115.9906899,0450112269,0459618976,MED
+Key,Demetrius,,5,Osborne,Street,Bentley Valley,6048,"5 Osborne Street, Bentley Valley 6048",1,0,-31.83997993,116.0433668,0455440479,0459632917,MED
+Kim,Kyla,,4,Adkins,Avenue,Blue Hill,6032,"4 Adkins Avenue, Blue Hill 6032",1,1,-32.03346682,115.9283807,0450426223,0459676600,LOW
+King,Zelda,,16,Stout,Street,Wilis Vale,6042,"16 Stout Street, Wilis Vale 6042",1,2,-31.98465041,116.0655968,0436059183,0459776297,LOW
+Kinney,Irene,,25,O'Donnell,Street,Blue Hill,6037,"25 O'Donnell Street, Blue Hill 6037",2,0,-31.96092428,115.9166842,(08) 95997198,0459811927,LOW
+Kinney,Armand,,20,Davenport,Road,Swan Brook,6056,"20 Davenport Road, Swan Brook 6056",2,1,-32.05691629,115.9353216,0470245073,0459796840,MED
+Klein,Cheryl,,44,Hopper,Street,Swan Brook,6021,"44 Hopper Street, Swan Brook 6021",2,4,-31.88480814,116.044565,0477114125,0459913855,LOW
+Knapp,Channing,,24,Forbes,Street,Marabelling,6032,"24 Forbes Street, Marabelling 6032",1,0,-32.05008769,115.9369482,0489003420,0459986459,MED
+Knight,Deacon,,19,Guy,Road,Albadale,6042,"19 Guy Road, Albadale 6042",2,2,-31.92428918,115.9316463,0471121750,0460103713,HIGH
+Knowles,Erin,,57,Kramer,Road,Mount Woorup,6058,"57 Kramer Road, Mount Woorup 6058",1,3,-32.07014467,116.0116436,0421014940,0460533829,LOW
+Knowles,Harlan,,15,Woodward,Street,Blue Hill,6078,"15 Woodward Street, Blue Hill 6078",2,0,-32.03163695,116.1633497,0423534631,0460475580,LOW
+Langley,Cheryl,,33,Rogers,Street,Lesley Mills,6037,"33 Rogers Street, Lesley Mills 6037",1,1,-31.92714651,115.9815122,0410980618,0460642344,MED
+Langley,Fatima,,7,Gould,Avenue,South Cobrook,6078,"7 Gould Avenue, South Cobrook 6078",1,1,-31.91106018,116.2779719,0423133275,0460564145,LOW
+Leach,Kareem,,23,Burnett,Street,Swan Brook,6056,"23 Burnett Street, Swan Brook 6056",1,3,-31.83541505,116.0334113,0417044831,0460832355,LOW
+Leblanc,Darrel,Unit 5,25,Goodman,Street,Forest Glade,6032,"Unit 5, 25 Goodman Street, Forest Glade 6032",5,0,-32.09363026,115.9821448,0441185748,0460837687,MED
+Leblanc,Brooke,,15,Fields,Road,Albadale,6090,"15 Fields Road, Albadale 6090",2,0,-32.00881371,115.9634102,0435811919,0461239313,HIGH
+Lee,Portia,,33,Barnett,Street,Billayong,6021,"33 Barnett Street, Billayong 6021",1,0,-31.81343315,115.9929436,0475549794,0461439103,LOW
+Leon,Maggie,Unit 3,36,Goodman,Street,Blue Hill,6059,"Unit 3, 36 Goodman Street, Blue Hill 6059",2,3,-31.89594273,116.0393098,0413922094,0461600880,LOW
+Leonard,Hoyt,,21,Turner,Street,Cloverwater,6037,"21 Turner Street, Cloverwater 6037",1,1,-31.80128808,115.9983475,0479809994,0462000595,HIGH
+Lester,Lillith,,38,Hopper,Street,Wilis Vale,6037,"38 Hopper Street, Wilis Vale 6037",1,0,-31.92315653,116.0283413,0421318973,0462064037,LOW
+Levy,Clare,,18,Tucker,Avenue,Stonefield,6032,"18 Tucker Avenue, Stonefield 6032",2,0,-32.02830691,115.9318337,0415941885,0462690222,LOW
+Lewis,Buckminster,,16,Melton,Street,Wilis Vale,6037,"16 Melton Street, Wilis Vale 6037",4,3,-32.0363363,115.9970354,0475569786,0462964135,LOW
+Little,Rowan,,24,Washington,Avenue,Henley Creek,6042,"24 Washington Avenue, Henley Creek 6042",1,3,-31.83153461,115.9687188,0455206231,0463667822,MED
+Lopez,Rhiannon,,21,Maynard,Road,Marricup,6048,"21 Maynard Road, Marricup 6048",2,1,-31.92947655,116.050108,(08) 96035112,0463810155,MED
+Love,Raja,,40,Munoz,Road,South Cobrook,6032,"40 Munoz Road, South Cobrook 6032",2,0,-32.05434512,115.9494111,0469771017,0464842568,MED
+Love,Basia,,36,Howe,Street,Marabelling,6042,"36 Howe Street, Marabelling 6042",2,3,-31.8292858,115.9085578,0424942264,0464427604,LOW
+Love,Nasim,Unit 3,35,Dyer,Street,Wilis Vale,6078,"Unit 3, 35 Dyer Street, Wilis Vale 6078",1,1,-31.83086883,115.9603155,0489549724,0464114488,MED
+Lowe,Illana,,6,Conley,Avenue,East Helena,6048,"6 Conley Avenue, East Helena 6048",1,3,-31.92972353,116.1210468,0437043010,0465127263,LOW
+Lowe,Sonia,,18,Noble,Street,East Helena,6059,"18 Noble Street, East Helena 6059",2,2,-32.00856594,116.0753284,0436475568,0464982249,LOW
+Lowery,Maile,,13,Riddle,Road,High Canning,6032,"13 Riddle Road, High Canning 6032",1,3,-32.08959177,115.9093648,0450997751,0465468148,MED
+Lucas,Reagan,,36,Raymond,Road,Blue Hill,6095,"36 Raymond Road, Blue Hill 6095",1,0,-31.83896506,116.0466609,0467149531,0465527188,MED
+Luna,Kaitlin,,7,Bailey,Street,Swan Weir,6032,"7 Bailey Street, Swan Weir 6032",1,0,-32.06636974,115.9571453,0459218605,0465717261,LOW
+Lynch,Adena,,15,Bean,Street,Cloverwater,6056,"15 Bean Street, Cloverwater 6056",1,2,-32.08617769,115.939465,0435764321,0465738282,LOW
+Lynn,Shana,,32,Barnes,Road,Lesley Mills,6037,"32 Barnes Road, Lesley Mills 6037",1,1,-31.81126083,116.1224712,0486382218,0465955863,MED
+Lyons,Hamish,,40,Collins,Road,Albadale,6032,"40 Collins Road, Albadale 6032",1,1,-32.00452217,115.9987738,0435812690,0466214346,HIGH
+Mack,Dawn,,5,Gould,Street,Briganup,6032,"5 Gould Street, Briganup 6032",2,1,-32.07440431,115.9052648,0440548283,0466596722,MED
+Mack,Beau,,39,Bradshaw,Avenue,Blue Hill,6058,"39 Bradshaw Avenue, Blue Hill 6058",2,1,-31.86022151,116.1866808,0452470989,0466292124,LOW
+Mann,Kalia,Unit 3,53,Ewing,Road,Albadale,6032,"Unit 3, 53 Ewing Road, Albadale 6032",1,1,-32.09293095,115.9106154,(08) 62589850,0466759883,LOW
+Marquez,Yvonne,,12,Thomas,Street,East Helena,6048,"12 Thomas Street, East Helena 6048",3,0,-31.87368957,115.9961852,(08) 63725566,0466890797,MED
+Marshall,Hilda,,14,Mejia,Street,South Cobrook,6058,"14 Mejia Street, South Cobrook 6058",3,1,-32.06265831,116.0362392,0419316835,0466943365,LOW
+Mason,Russell,,18,Travis,Road,Greenville,6021,"18 Travis Road, Greenville 6021",1,2,-31.80911427,115.9100527,0462051978,0467049312,HIGH
+Mathews,Lilah,,3,Harding,Street,East Cubbin,6058,"3 Harding Street, East Cubbin 6058",1,5,-31.982821,116.0219949,0445245325,0467164080,MED
+Mayer,Rashad,,35,Moore,Street,Stonefield,6021,"35 Moore Street, Stonefield 6021",1,0,-31.81284423,115.9451712,0423566629,0467341243,MED
+Maynard,Lars,,24,Faulkner,Street,East Helena,6064,"24 Faulkner Street, East Helena 6064",1,0,-31.86679386,116.1829344,0438330262,0467356012,LOW
+Mccarty,Jennifer,Unit 3,55,Bernard,Road,South Cobrook,6090,"Unit 3, 55 Bernard Road, South Cobrook 6090",2,2,-32.0545645,115.9892692,0416268982,0467408076,LOW
+Mcclain,Rhoda,,40,Reilly,Road,Swan Weir,6021,"40 Reilly Road, Swan Weir 6021",1,5,-31.86654405,115.9084364,0487429938,0467462566,MED
+Mcconnell,Lucy,,23,Waller,Way,Swan Weir,6059,"23 Waller Way, Swan Weir 6059",1,2,-32.07356381,116.0446335,0428431655,0468108015,MED
+Mcgee,Bert,,41,Glass,Road,Wilis Vale,6037,"41 Glass Road, Wilis Vale 6037",2,1,-32.08413289,116.0357322,0485806011,0468356049,MED
+Mcgowan,Rylee,,32,Barnett,Road,East Helena,6037,"32 Barnett Road, East Helena 6037",2,2,-31.87708387,115.9136076,0479231353,0468641248,LOW
+Mcintyre,Yetta,,24,Mccall,Avenue,Billayong,6032,"24 Mccall Avenue, Billayong 6032",1,2,-32.03407198,115.9441512,0428840388,0468881733,MED
+Mckay,Madonna,,10,Lowery,Road,Greenville,6037,"10 Lowery Road, Greenville 6037",2,3,-31.9766207,116.0544526,0472585966,0469010274,LOW
+Meadows,Lael,,37,Reed,Street,Forest Glade,6037,"37 Reed Street, Forest Glade 6037",3,1,-31.90002071,115.927218,0441474915,0469137673,LOW
+Meadows,Nasim,,21,Barnes,Road,Marricup,6058,"21 Barnes Road, Marricup 6058",2,0,-32.07023262,116.0091004,0464194434,0469195328,MED
+Melendez,Chase,,9,Hensley,Street,Mount Woorup,6051,"9 Hensley Street, Mount Woorup 6051",1,2,-31.96496161,116.0917118,0484038672,0469303144,MED
+Melton,Kato,,12,Dudley,Street,Blue Hill,6048,"12 Dudley Street, Blue Hill 6048",1,3,-31.81794325,116.0062298,0470572344,0469326988,MED
+Mendez,Colin,,38,Stewart,Street,Stonefield,6032,"38 Stewart Street, Stonefield 6032",1,0,-32.00353479,115.9893332,0436211965,0469512977,LOW
+Mendoza,Dennis,,37,Calderon,Road,Marricup,6090,"37 Calderon Road, Marricup 6090",1,0,-31.81718777,115.9616851,0440222412,0469659714,LOW
+Merritt,Hop,,39,Kane,Road,East Helena,6042,"39 Kane Road, East Helena 6042",3,2,-31.81192964,116.2197686,0421962180,0469792046,LOW
+Michael,Harding,,13,Thompson,Street,Cubbin,6051,"13 Thompson Street, Cubbin 6051",1,0,-31.96413393,115.9750634,0436054008,0470059180,LOW
+Michael,Sonya,,14,Dale,Road,Greenville,6051,"14 Dale Road, Greenville 6051",3,2,-31.98889817,116.2111598,0471496378,0469955833,LOW
+Miles,Caesar,,42,Russell,Road,Forest Glade,6037,"42 Russell Road, Forest Glade 6037",2,0,-32.0389615,115.9428519,0462550511,0470090176,LOW
+Mitchell,Abdul,,45,Buchanan,Street,High Canning,6032,"45 Buchanan Street, High Canning 6032",1,0,-31.88409164,115.9445527,0478718092,0470164843,LOW
+Molina,Winifred,,6,Payne,Way,Swan Weir,6078,"6 Payne Way, Swan Weir 6078",2,5,-31.94657339,115.9468006,0428705078,0470464742,MED
+Moon,Ray,,16,Mason,Street,South Cobrook,6032,"16 Mason Street, South Cobrook 6032",1,1,-32.04314277,115.9023878,0472113811,0470466016,MED
+Moreno,Fitzgerald,,37,O'Neill,Street,Greenville,6032,"37 O'Neill Street, Greenville 6032",2,3,-32.07700379,115.9724459,0448517293,0470528044,LOW
+Morin,Karen,,25,Small,Street,Blue Hill,6016,"25 Small Street, Blue Hill 6016",2,2,-31.85871938,115.9814731,0421975303,0470635279,LOW
+Morris,Nathaniel,,33,Horne,Street,Marricup,6037,"33 Horne Street, Marricup 6037",1,1,-31.91953453,115.9108968,0485479806,0470718402,HIGH
+Morrow,Jack,,9,Petersen,Road,Briganup,6042,"9 Petersen Road, Briganup 6042",2,3,-31.80514968,116.0116978,0425185893,0470817335,MED
+Morse,Thor,,40,Rowe,Road,Henley Creek,6037,"40 Rowe Road, Henley Creek 6037",1,0,-31.94419635,116.023547,0415415597,0471222047,MED
+Moses,Denise,,12,Poole,Avenue,St Spencer,6032,"12 Poole Avenue, St Spencer 6032",1,2,-32.00219202,115.9795561,(08) 96442527,0471259782,MED
+Moss,Kylynn,,43,Hoover,Street,Briganup,6095,"43 Hoover Street, Briganup 6095",1,2,-31.86882607,115.9773721,0474069762,0471334073,LOW
+Mueller,Aiko,,22,Maynard,Road,East Helena,6059,"22 Maynard Road, East Helena 6059",1,2,-32.02807094,115.9228641,0490253445,0471380195,MED
+Mueller,Daniel,,36,Roman,Avenue,Billayong,6059,"36 Roman Avenue, Billayong 6059",1,3,-31.98161928,116.0103868,0463116277,0471484585,LOW
+Murphy,Jin,,34,Holden,Street,Henley Creek,6048,"34 Holden Street, Henley Creek 6048",2,0,-31.85087043,115.9729842,0475688631,0471542377,LOW
+Murray,Tatiana,,40,Huff,Street,Blue Hill,6056,"40 Huff Street, Blue Hill 6056",2,1,-32.09429794,116.010337,(08) 98293269,0471881304,MED
+Myers,Ethan,,22,Robles,Road,Albadale,6090,"22 Robles Road, Albadale 6090",2,1,-31.92318947,116.0997926,0483335214,0472268842,LOW
+Newman,Zorita,,36,Slater,Street,Henley Creek,6037,"36 Slater Street, Henley Creek 6037",1,1,-31.87684336,115.9533745,0470806927,0472325456,LOW
+Newton,Adrienne,,39,Vinson,Loop,Blue Hill,6090,"39 Vinson Loop, Blue Hill 6090",2,5,-31.99627564,116.1047911,(08) 69551930,0472517147,MED
+Nielsen,Tanisha,,38,Riley,Avenue,South Cobrook,6056,"38 Riley Avenue, South Cobrook 6056",2,0,-32.01178906,115.9973114,0438947248,0472662841,MED
+Nunez,Keith,,42,Rhodes,Street,Cloverwater,6042,"42 Rhodes Street, Cloverwater 6042",2,1,-31.81645018,116.0518789,0444034896,0472965745,HIGH
+Odom,Macey,,8,Thomas,Street,Swan Brook,6048,"8 Thomas Street, Swan Brook 6048",2,0,-32.02001662,115.9859848,0427288862,0473183269,LOW
+Olsen,Mercedes,,39,Cohen,Street,St Spencer,6064,"39 Cohen Street, St Spencer 6064",2,2,-31.97240696,116.0190527,0478479167,0473776161,LOW
+Olson,Anastasia,,7,Terry,Street,Cubbin,6032,"7 Terry Street, Cubbin 6032",2,1,-31.80900339,115.9840686,(08) 61332495,0474395579,HIGH
+Olson,Xena,,41,Osborn,Street,Cloverwater,6032,"41 Osborn Street, Cloverwater 6032",1,1,-32.05784904,115.9227846,0492403302,0475078714,HIGH
+Olson,Kiayada,,34,Waller,Street,Stonefield,6048,"34 Waller Street, Stonefield 6048",2,2,-31.82444661,115.9364649,0418200182,0474537606,HIGH
+Oneil,Kylynn,,33,Ramsey,Road,Cubbin,6059,"33 Ramsey Road, Cubbin 6059",2,1,-32.06811342,116.2333874,0469514334,0475282312,HIGH
+Osborne,Carolyn,,12,Meadows,Road,Briganup,6095,"12 Meadows Road, Briganup 6095",2,2,-31.83636534,115.9376299,0412645998,0475520158,LOW
+Pacheco,Kylee,,57,Mooney,Road,Greenville,6037,"57 Mooney Road, Greenville 6037",1,3,-31.93676585,116.0344587,0432034024,0475813403,LOW
+Park,Warren,,24,Morton,Avenue,Swan Weir,6032,"24 Morton Avenue, Swan Weir 6032",2,3,-32.06287635,115.9706024,0475947471,0476118927,MED
+Parker,Shoshana,,20,Turner,Street,Mount Woorup,6078,"20 Turner Street, Mount Woorup 6078",2,2,-32.03406808,116.0536748,0417617064,0476248126,LOW
+Parsons,Selma,,46,White,Street,Forest Glade,6090,"46 White Street, Forest Glade 6090",2,0,-31.9520758,116.0264209,0465204669,0476264888,LOW
+Patrick,Kylan,,46,Mitchell,Road,Forest Glade,6078,"46 Mitchell Road, Forest Glade 6078",2,2,-32.0354743,115.9543871,0466972358,0476496871,MED
+Pearson,Vivian,,42,Bauer,Road,Swan Weir,6064,"42 Bauer Road, Swan Weir 6064",2,1,-31.83909649,116.2684249,0411203494,0476653102,LOW
+Peck,Yeo,,37,Mcguire,Street,Stonefield,6016,"37 Mcguire Street, Stonefield 6016",2,0,-31.8185527,116.1777216,0440911229,0476903995,LOW
+Peck,Katell,,35,Mcgee,Avenue,Forest Glade,6090,"35 Mcgee Avenue, Forest Glade 6090",2,1,-31.92308802,116.1344614,0444145208,0476730475,LOW
+Pena,Carl,,39,Duran,Street,Mount Woorup,6037,"39 Duran Street, Mount Woorup 6037",1,0,-31.88561066,115.9155566,0442953334,0476993692,LOW
+Pena,Chastity,,40,William,Road,Forest Glade,6058,"40 William Road, Forest Glade 6058",1,0,-31.854615,115.9593179,(08) 94792679,0477093202,MED
+Pennington,Sopoline,,5,Alexander,Road,Forest Glade,6027,"5 Alexander Road, Forest Glade 6027",1,1,-31.87357423,115.9553437,0453798300,0477184831,LOW
+Perkins,Adara,,16,Underwood,Street,East Cubbin,6048,"16 Underwood Street, East Cubbin 6048",1,0,-31.85085642,115.9275513,0488424702,0477425572,LOW
+Perry,Alfonso,,43,Gamble,Avenue,Mount Woorup,6084,"43 Gamble Avenue, Mount Woorup 6084",1,1,-32.01488527,116.0859363,0439363503,0477432496,HIGH
+Petersen,Quamar,,37,Stanton,Loop,Greenville,6059,"37 Stanton Loop, Greenville 6059",2,3,-31.98954286,116.2231039,0463424921,0477506204,LOW
+Petty,Miranda,,7,Pearson,Street,Mount Woorup,6037,"7 Pearson Street, Mount Woorup 6037",1,1,-31.80647589,116.0896564,0483606001,0477566951,MED
+Pickett,Sebastian,,45,Jacobson,Street,Briganup,6059,"45 Jacobson Street, Briganup 6059",2,3,-32.07057637,115.9600486,(08) 99071969,0477702669,LOW
+Pittman,Nayda,,6,Harris,Road,Forest Glade,6016,"6 Harris Road, Forest Glade 6016",3,0,-31.86314641,115.9045795,0441938015,0477717917,LOW
+Pope,Bethany,,15,Dale,Road,Stonefield,6095,"15 Dale Road, Stonefield 6095",5,0,-31.92664994,115.9214397,0475235675,0477758414,LOW
+Potter,Brittany,,13,Pittman,Street,Wilis Vale,6032,"13 Pittman Street, Wilis Vale 6032",5,2,-32.03530791,115.9375683,0418691194,0477885448,LOW
+Potts,Ebony,,33,Bolton,Road,Wilis Vale,6037,"33 Bolton Road, Wilis Vale 6037",3,1,-32.0974471,116.0424603,0414572099,0477892246,MED
+Potts,Lucy,,10,Herman,Street,Cloverwater,6095,"10 Herman Street, Cloverwater 6095",2,0,-32.0839394,115.9305705,0471200287,0478017146,LOW
+Preston,Noelle,,18,Strong,Street,Swan Brook,6078,"18 Strong Street, Swan Brook 6078",3,0,-31.96683282,115.9782117,0445488331,0478126345,MED
+Prince,Hu,,36,Whitehead,Street,Cloverwater,6032,"36 Whitehead Street, Cloverwater 6032",1,1,-32.04408568,115.9756437,0443848504,0478605152,LOW
+Prince,Fallon,,35,Clayton,Street,Bentley Valley,6078,"35 Clayton Street, Bentley Valley 6078",1,3,-32.07875197,116.1555439,0424546187,0478439840,LOW
+Puckett,Edan,,36,Stafford,Street,Forest Glade,6048,"36 Stafford Street, Forest Glade 6048",1,1,-32.09107231,116.1258561,0468282915,0479141253,HIGH
+Quinn,Dexter,,11,Mcclain,Street,Swan Brook,6037,"11 Mcclain Street, Swan Brook 6037",2,3,-32.08300442,116.0864916,0415266580,0479209944,MED
+Quinn,Martin,,35,Ray,Street,Henley Creek,6051,"35 Ray Street, Henley Creek 6051",4,0,-31.84272877,115.9980194,0484378244,0479202345,HIGH
+Ramsey,Ramona,,46,Knox,Street,Swan Weir,6048,"46 Knox Street, Swan Weir 6048",4,2,-32.02129946,116.1160437,0479643935,0479512498,MED
+Randolph,Trevor,,16,Noble,Road,Billayong,6032,"16 Noble Road, Billayong 6032",3,1,-32.02752794,115.9195482,0460942133,0479726412,LOW
+Ray,Donovan,,11,Tyson,Street,Wilis Vale,6064,"11 Tyson Street, Wilis Vale 6064",1,0,-32.06181429,115.9789363,0492636577,0479773999,MED
+Reed,Neil,,8,Lowery,Street,Blue Hill,6042,"8 Lowery Street, Blue Hill 6042",2,1,-31.82034169,115.9504199,0487018993,0480738919,LOW
+Reed,April,,34,Mcfadden,Way,Blue Hill,6058,"34 Mcfadden Way, Blue Hill 6058",5,1,-31.93966617,116.1101277,(08) 61351081,0480027985,LOW
+Reese,Cailin,,15,Richard,Street,Briganup,6064,"15 Richard Street, Briganup 6064",4,2,-31.81773471,116.1446007,0479751486,0480779829,MED
+Reid,Courtney,,24,Mclean,Road,Bentley Valley,6051,"24 Mclean Road, Bentley Valley 6051",2,0,-32.03819314,116.1696793,0471643673,0480785548,LOW
+Reyes,Reuben,,3,Adams,Road,Henley Creek,6042,"3 Adams Road, Henley Creek 6042",1,0,-31.86640967,115.9190715,(08) 63291677,0480990256,MED
+Richard,Autumn,,39,Browning,Street,Briganup,6042,"39 Browning Street, Briganup 6042",2,1,-31.91351045,115.9182338,0449664692,0481071367,LOW
+Richmond,Abbot,,35,Whitehead,Road,Stonefield,6016,"35 Whitehead Road, Stonefield 6016",1,3,-31.87770673,116.0574371,0425585369,0481098397,LOW
+Riddle,Anastasia,,41,Bass,Street,Stonefield,6078,"41 Bass Street, Stonefield 6078",1,2,-32.01211967,115.9506416,0445215743,0481209883,MED
+Riddle,Shad,,4,Harding,Road,Henley Creek,6090,"4 Harding Road, Henley Creek 6090",1,4,-31.87329775,115.9377518,0461856646,0481327487,LOW
+Rios,Kenyon,,11,Lowery,Road,Stonefield,6021,"11 Lowery Road, Stonefield 6021",2,1,-31.8587853,116.0187571,0435383685,0481371796,LOW
+Rivas,Eagan,,54,Ewing,Road,Lesley Mills,6042,"54 Ewing Road, Lesley Mills 6042",2,1,-31.88837109,116.0710254,0458063259,0481373950,LOW
+Rivas,Drew,,18,Gibson,Street,High Canning,6058,"18 Gibson Street, High Canning 6058",1,2,-32.05691262,116.0213086,0419087647,0481499349,LOW
+Roach,Matthew,,38,Reid,Road,Greenville,6058,"38 Reid Road, Greenville 6058",1,1,-31.85969467,116.078761,0493290198,0481655393,HIGH
+Roberson,Randall,,37,Wilkerson,Road,East Helena,6051,"37 Wilkerson Road, East Helena 6051",2,2,-31.82447802,116.0490006,0454796328,0481791141,LOW
+Roberson,Odysseus,,37,Howe,Street,Cubbin,6078,"37 Howe Street, Cubbin 6078",1,1,-31.98141817,116.2477058,0466138775,0481799528,LOW
+Roberts,Riley,Unit 4,41,Myers,Street,Wilis Vale,6048,"Unit 4, 41 Myers Street, Wilis Vale 6048",1,1,-32.08734363,115.9016394,0495928683,0482001318,LOW
+Robertson,Steel,Unit 5,7,Stout,Loop,High Canning,6021,"Unit 5, 7 Stout Loop, High Canning 6021",5,2,-31.8627497,115.9828096,0430868157,0482411978,LOW
+Robertson,August,Unit 2,58,Golden,Road,Henley Creek,6048,"Unit 2, 58 Golden Road, Henley Creek 6048",1,1,-31.9743476,115.9962532,0425936051,0482072854,LOW
+Robinson,Donna,,59,Harding,Street,Billayong,6056,"59 Harding Street, Billayong 6056",3,1,-31.90323146,115.9183615,0448310695,0482836950,LOW
+Robles,Leonard,,48,Parrish,Street,Marricup,6095,"48 Parrish Street, Marricup 6095",1,1,-32.05566063,115.9190272,0472522703,0483001843,LOW
+Rocha,Amal,,40,Carroll,Street,Marabelling,6048,"40 Carroll Street, Marabelling 6048",2,1,-32.01628515,115.959056,0439662754,0483560108,LOW
+Rocha,Sawyer,,16,Fields,Street,Swan Brook,6048,"16 Fields Street, Swan Brook 6048",2,0,-31.82791707,116.0352957,(08) 99893950,0483728269,LOW
+Rodgers,Nyssa,,42,Wise,Avenue,Marricup,6021,"42 Wise Avenue, Marricup 6021",5,4,-31.88570599,116.0446964,0487713536,0484000414,LOW
+Romero,Kylie,,56,Buckley,Road,South Cobrook,6027,"56 Buckley Road, South Cobrook 6027",1,2,-31.88916255,115.9057582,0459682002,0484136254,LOW
+Rosario,Daryl,,40,Finch,Avenue,Lesley Mills,6037,"40 Finch Avenue, Lesley Mills 6037",1,1,-31.91498564,116.0774679,0499991401,0484343663,MED
+Roth,Paki,,26,McLaughlin,Road,Cloverwater,6032,"26 McLaughlin Road, Cloverwater 6032",2,1,-32.09828239,115.9451498,0466039918,0484507178,LOW
+Rowland,Genevieve,Unit 6,37,England,Road,St Spencer,6021,"Unit 6, 37 England Road, St Spencer 6021",2,3,-31.81796527,115.9080335,0437778789,0484838160,MED
+Roy,Christopher,,16,Daugherty,Street,Bentley Valley,6021,"16 Daugherty Street, Bentley Valley 6021",1,0,-31.8374933,115.9246936,0412617557,0485109667,MED
+Salas,Victor,,24,Lang,Road,Bentley Valley,6037,"24 Lang Road, Bentley Valley 6037",1,0,-31.86006804,115.9799893,0453047441,0485597659,LOW
+Salas,Cleo,,14,Valentine,Road,Henley Creek,6058,"14 Valentine Road, Henley Creek 6058",2,1,-31.80927706,115.9038164,0428570463,0485324079,MED
+Sandoval,Cally,,6,Armstrong,Street,Greenville,6084,"6 Armstrong Street, Greenville 6084",1,2,-31.81355597,115.9110601,0428863216,0485605470,MED
+Sanford,Sade,,14,Thompson,Road,East Cubbin,6095,"14 Thompson Road, East Cubbin 6095",1,1,-31.83745907,115.9034064,0493198983,0485803835,HIGH
+Santiago,Steel,Unit 5,5,Larsen,Street,Lesley Mills,6058,"Unit 5, 5 Larsen Street, Lesley Mills 6058",2,2,-31.81359395,116.1349421,0476384462,0485857997,LOW
+Santos,Harper,,23,Dudley,Street,East Helena,6037,"23 Dudley Street, East Helena 6037",1,2,-31.89217994,115.9666848,0459383490,0486134206,LOW
+Saunders,Kalia,,9,Lowery,Road,Forest Glade,6078,"9 Lowery Road, Forest Glade 6078",2,2,-31.85320155,116.0316556,0470415614,0486144136,LOW
+Sawyer,Reese,,7,Atkinson,Street,Stonefield,6056,"7 Atkinson Street, Stonefield 6056",1,1,-32.00860592,115.9088832,0444983886,0486663526,HIGH
+Schmidt,Carson,,56,Dyer,Road,Bentley Valley,6037,"56 Dyer Road, Bentley Valley 6037",1,0,-31.9739258,116.1682513,0444261296,0486700367,LOW
+Schneider,Farrah,,17,Daugherty,Road,Briganup,6042,"17 Daugherty Road, Briganup 6042",1,2,-31.99200142,116.1410144,0498553815,0487143647,LOW
+Schneider,Lionel,,43,Briggs,Road,Swan Weir,6042,"43 Briggs Road, Swan Weir 6042",2,2,-31.81988672,115.9852547,0486135228,0486883827,MED
+Schultz,Holly,,25,Tyson,Street,High Canning,6042,"25 Tyson Street, High Canning 6042",1,2,-31.82002143,116.0759515,0428132327,0487324730,LOW
+Schultz,Quemby,,41,Carson,Street,Cubbin,6059,"41 Carson Street, Cubbin 6059",2,2,-31.92067859,116.2030077,0412838098,0487324156,LOW
+Sears,Shea,,17,Nichols,Street,Marricup,6048,"17 Nichols Street, Marricup 6048",1,1,-31.85791912,115.9589052,0423240459,0487539152,LOW
+Sellers,Jorden,,18,Massey,Street,Swan Brook,6058,"18 Massey Street, Swan Brook 6058",1,4,-32.04157085,116.0073184,0470150986,0487585077,LOW
+Serrano,Katell,,56,Sharpe,Avenue,Briganup,6032,"56 Sharpe Avenue, Briganup 6032",1,2,-32.07168913,115.9304308,(08) 94633941,0487688083,LOW
+Sexton,Zane,,26,Ware,Street,East Helena,6021,"26 Ware Street, East Helena 6021",1,0,-31.80498393,115.9168844,0416872977,0488143274,LOW
+Sexton,Francesca,,38,Howe,Avenue,East Cubbin,6064,"38 Howe Avenue, East Cubbin 6064",1,1,-31.86174269,116.0256201,0440617524,0488012737,MED
+Shannon,Thane,,41,Hooper,Street,Cloverwater,6032,"41 Hooper Street, Cloverwater 6032",1,2,-32.05566031,115.903703,0445384913,0488724818,LOW
+Shaw,Sandra,,10,Crosby,Road,Henley Creek,6048,"10 Crosby Road, Henley Creek 6048",5,3,-31.91156417,115.9907626,(08) 61210068,0489223951,LOW
+Shepard,Drake,,44,Salas,Loop,Stonefield,6032,"44 Salas Loop, Stonefield 6032",2,1,-32.09410217,115.9753228,0481734736,0489284458,LOW
+Shields,Noel,,6,Gould,Street,High Canning,6042,"6 Gould Street, High Canning 6042",1,0,-31.97997143,116.0140715,(08) 68856565,0489431846,LOW
+Simon,Ralph,,4,Paul,Street,Greenville,6032,"4 Paul Street, Greenville 6032",1,3,-32.09277694,115.9406598,0470445174,0489455602,MED
+Sims,Zachary,,37,Harding,Avenue,Marabelling,6032,"37 Harding Avenue, Marabelling 6032",1,1,-32.09316519,115.9597581,0453432384,0489568448,LOW
+Slater,Lisandra,,33,Horn,Street,Albadale,6042,"33 Horn Street, Albadale 6042",2,2,-31.96800607,115.9881005,(08) 93562672,0489606175,LOW
+Solomon,Xena,,21,Prince,Road,Billayong,6016,"21 Prince Road, Billayong 6016",2,2,-31.84318924,116.0335342,0483994078,0489636341,MED
+Solomon,Oliver,,11,Herman,Street,Bentley Valley,6037,"11 Herman Street, Bentley Valley 6037",1,2,-31.92723524,115.944684,0416845660,0489681532,LOW
+Soto,Allistair,,15,Thomas,Street,Marabelling,6032,"15 Thomas Street, Marabelling 6032",2,3,-31.84329853,115.9052498,0491794762,0489986960,MED
+Sparks,Quinlan,,12,Waters,Street,Blue Hill,6032,"12 Waters Street, Blue Hill 6032",2,1,-32.06615494,115.9623295,0411451342,0489990880,LOW
+Stafford,Brett,,8,Graves,Street,Wilis Vale,6037,"8 Graves Street, Wilis Vale 6037",2,0,-32.01953476,116.0054097,0497452726,0489997662,LOW
+Stark,Unity,,40,Lara,Road,St Spencer,6095,"40 Lara Road, St Spencer 6095",2,2,-31.8943575,115.9087912,0421524948,0490028762,MED
+Steele,Jorden,,8,Thomas,Road,St Spencer,6058,"8 Thomas Road, St Spencer 6058",2,2,-31.88300404,115.9436345,0493671037,0490237440,LOW
+Stein,Cecilia,,37,Barlow,Street,Swan Brook,6032,"37 Barlow Street, Swan Brook 6032",1,2,-32.07180017,115.9126731,0467993443,0490352919,MED
+Stephenson,Jamal,,56,Jacobson,Road,High Canning,6032,"56 Jacobson Road, High Canning 6032",1,2,-32.04429157,115.9390321,(08) 93011729,0490379942,LOW
+Stewart,Akeem,Unit 4,45,Sellers,Road,Bentley Valley,6021,"Unit 4, 45 Sellers Road, Bentley Valley 6021",1,0,-31.8222581,116.0503933,0448653002,0490488485,LOW
+Stokes,Jason,,13,Underwood,Road,Marabelling,6056,"13 Underwood Road, Marabelling 6056",3,2,-31.93744995,116.1750306,0431291481,0490537467,LOW
+Stokes,Chastity,,17,Christensen,Street,Greenville,6058,"17 Christensen Street, Greenville 6058",1,1,-32.06849207,115.9034475,0473504658,0490701666,MED
+Stone,Germaine,,38,Cantrell,Road,East Helena,6037,"38 Cantrell Road, East Helena 6037",2,0,-31.93033414,115.9708194,0417845466,0490991879,LOW
+Stuart,Fredericka,Unit 6,34,Boone,Road,Albadale,6059,"Unit 6, 34 Boone Road, Albadale 6059",3,5,-31.80318081,115.9519609,0416217443,0491189568,LOW
+Summers,Idola,,33,Hogan,Road,East Helena,6032,"33 Hogan Road, East Helena 6032",2,1,-32.03497654,115.9445963,0453169396,0491259091,LOW
+Summers,Nash,,12,Tyson,Street,Swan Brook,6032,"12 Tyson Street, Swan Brook 6032",2,0,-32.01120503,115.9287737,0472618919,0491372854,LOW
+Summers,Naida,,35,Rollins,Street,East Helena,6048,"35 Rollins Street, East Helena 6048",2,2,-31.97891456,115.9226586,0470829238,0491336055,LOW
+Sutton,Hiram,,24,Cleveland,Road,Briganup,6037,"24 Cleveland Road, Briganup 6037",2,0,-32.01631815,115.9857345,0462379321,0491386656,MED
+Sweeney,Garrison,,40,Frye,Street,Greenville,6042,"40 Frye Street, Greenville 6042",2,4,-31.82909588,116.0348481,0489002438,0492398518,LOW
+Sweeney,Jonas,,41,Norris,Avenue,Marabelling,6051,"41 Norris Avenue, Marabelling 6051",1,0,-32.0375442,115.9108499,0418759148,0492469621,MED
+Sweeney,Macy,,40,Kennedy,Circle,Billayong,6078,"40 Kennedy Circle, Billayong 6078",4,0,-31.92751505,115.9021113,0444740502,0492244665,HIGH
+Sweet,Xyla,,38,Benson,Avenue,Briganup,6048,"38 Benson Avenue, Briganup 6048",2,4,-32.06275154,115.9712808,0480133900,0492521522,LOW
+Sykes,Boris,,41,Fuller,Street,Stonefield,6032,"41 Fuller Street, Stonefield 6032",2,3,-32.01759284,115.9183955,0480439941,0492669980,LOW
+Tanner,Nayda,,58,O'connor,Street,East Cubbin,6037,"58 O'connor Street, East Cubbin 6037",2,1,-31.89657755,116.263287,0449996388,0492874831,MED
+Tate,Sarah,,18,Mathews,Street,St Spencer,6090,"18 Mathews Street, St Spencer 6090",1,3,-31.81711158,115.929276,0490558802,0493077189,MED
+Thompson,Michelle,,36,O'Donnell,Road,Forest Glade,6042,"36 O'Donnell Road, Forest Glade 6042",2,2,-31.89787598,116.0210033,0424728059,0493202614,LOW
+Trevino,Orli,,36,Bowman,Road,Marricup,6051,"36 Bowman Road, Marricup 6051",2,2,-31.82346244,115.9126598,0461479119,0493360989,LOW
+Trevino,Owen,,44,Briggs,Street,Mount Woorup,6078,"44 Briggs Street, Mount Woorup 6078",1,0,-32.08796505,115.9536774,(08) 64534214,0493584952,LOW
+Trujillo,Caldwell,,5,Harrell,Road,Blue Hill,6037,"5 Harrell Road, Blue Hill 6037",2,0,-31.99643835,116.0275272,0414036859,0493667782,LOW
+Underwood,Igor,,19,May,Street,Albadale,6037,"19 May Street, Albadale 6037",2,0,-31.94927926,115.9465882,0489935263,0493711168,LOW
+Vasquez,Willow,,17,Gibson,Road,Briganup,6048,"17 Gibson Road, Briganup 6048",2,2,-31.96454803,116.1615353,0447277543,0493825311,LOW
+Vaughn,Leonard,,41,Reynolds,Street,Mount Woorup,6032,"41 Reynolds Street, Mount Woorup 6032",1,4,-32.01733287,115.9528012,0415622824,0493830528,MED
+Vega,Nevada,,22,Donovan,Road,Albadale,6048,"22 Donovan Road, Albadale 6048",4,1,-31.85464075,116.0111377,0431973118,0493933711,LOW
+Velasquez,Gregory,,35,Whitehead,Street,Mount Woorup,6059,"35 Whitehead Street, Mount Woorup 6059",2,0,-32.00440276,116.2450343,0441222433,0494046787,LOW
+Walker,Leah,,40,Meyer,Street,Blue Hill,6042,"40 Meyer Street, Blue Hill 6042",1,2,-31.86577728,115.9804288,0491691986,0494133292,MED
+Wallace,Ian,,45,Christensen,Road,Forest Glade,6037,"45 Christensen Road, Forest Glade 6037",1,0,-31.90062798,115.9642229,(08) 66571947,0494513135,MED
+Wallace,Galvin,,37,Bradley,Avenue,East Helena,6095,"37 Bradley Avenue, East Helena 6095",1,2,-31.96379102,115.9931548,0480527831,0494510899,MED
+Walls,Molly,,15,Underwood,Road,Cubbin,6032,"15 Underwood Road, Cubbin 6032",1,1,-32.05218757,115.9199688,0470415558,0495068285,MED
+Walls,Jerome,,6,Larson,Street,Marricup,6037,"6 Larson Street, Marricup 6037",3,0,-31.94432734,116.0287409,0419496273,0495044904,LOW
+Walters,Evelyn,,10,Phelps,Street,High Canning,6078,"10 Phelps Street, High Canning 6078",1,0,-31.98584434,116.0778408,0417205714,0495262395,LOW
+Walton,Avram,,38,Bradshaw,Street,Henley Creek,6037,"38 Bradshaw Street, Henley Creek 6037",1,1,-32.00657653,116.0772297,0429418978,0495263117,HIGH
+Ward,Doris,,38,Mosley,Road,Briganup,6032,"38 Mosley Road, Briganup 6032",2,0,-32.09904852,115.9375851,0464976100,0495283061,LOW
+Ware,MacKenzie,,17,Wright,Street,Marricup,6037,"17 Wright Street, Marricup 6037",1,0,-31.88705497,115.9862967,0482138280,0495395355,LOW
+Warner,Travis,,24,Turner,Street,Briganup,6032,"24 Turner Street, Briganup 6032",1,0,-32.06927881,115.9558954,0494570149,0495777414,LOW
+Waters,Lee,,21,Hodge,Circle,Lesley Mills,6084,"21 Hodge Circle, Lesley Mills 6084",1,1,-32.02351564,116.269061,0480208981,0495915679,LOW
+Watts,Charde,,15,Gibson,Street,Bentley Valley,6032,"15 Gibson Street, Bentley Valley 6032",1,0,-32.0438735,115.9263928,0427610427,0496068598,LOW
+Watts,Lamar,,16,Townsend,Street,Blue Hill,6058,"16 Townsend Street, Blue Hill 6058",3,1,-31.97321887,116.1033021,0446967545,0495976615,LOW
+Weaver,Basil,,18,Davenport,Avenue,South Cobrook,6027,"18 Davenport Avenue, South Cobrook 6027",2,3,-31.83394495,115.9119643,0443657931,0496492654,HIGH
+Webb,William,,20,Mayer,Road,Lesley Mills,6016,"20 Mayer Road, Lesley Mills 6016",2,2,-31.80094913,115.9122825,0446637764,0496565817,MED
+Weiss,Aiko,,9,Baker,Road,Cloverwater,6058,"9 Baker Road, Cloverwater 6058",2,1,-31.82082423,116.0242715,0464519221,0497382534,LOW
+Wells,Len,,14,Jacobson,Road,Cloverwater,6016,"14 Jacobson Road, Cloverwater 6016",3,1,-31.82008167,115.9955774,0423915876,0497584128,LOW
+Wells,Colt,,16,Weber,Street,Marricup,6056,"16 Weber Street, Marricup 6056",1,2,-31.99744246,115.9101988,0439954201,0497714261,LOW
+Wheeler,Brenda,,17,Travis,Road,Forest Glade,6037,"17 Travis Road, Forest Glade 6037",4,1,-32.02680751,116.1952785,0444829556,0497753784,LOW
+Whitaker,Briar,,3,Patterson,Street,Forest Glade,6021,"3 Patterson Street, Forest Glade 6021",1,2,-31.89120632,115.904572,0427915648,0498340159,LOW
+Whitaker,Ava,,38,Juarez,Avenue,Marricup,6032,"38 Juarez Avenue, Marricup 6032",2,1,-32.03815552,115.9173571,(08) 97789011,0497888871,LOW
+White,Berk,,38,Lang,Street,Wilis Vale,6032,"38 Lang Street, Wilis Vale 6032",1,0,-32.01915614,115.9334048,0484540638,0498561393,LOW
+White,Justina,,8,Peters,Street,Bentley Valley,6032,"8 Peters Street, Bentley Valley 6032",5,0,-32.03797926,115.9480593,0485893105,0498418941,MED
+Whitehead,Lance,,25,Dotson,Road,Marricup,6090,"25 Dotson Road, Marricup 6090",3,1,-31.96541792,116.1294901,0461256032,0498602771,HIGH
+Whitney,Sara,,14,Luna,Road,Mount Woorup,6042,"14 Luna Road, Mount Woorup 6042",1,2,-31.99168676,115.9611768,0452750312,0499029786,MED
+Wiggins,Janna,,46,Fisher,Road,Marricup,6016,"46 Fisher Road, Marricup 6016",2,1,-31.89260536,115.9933125,0410234122,0499504557,MED
+Wiggins,Igor,,41,Wilson,Road,Greenville,6037,"41 Wilson Road, Greenville 6037",3,1,-31.84562022,115.9287515,0436832885,0499242624,MED
+Wiley,Tanek,,5,Stokes,Street,Bentley Valley,6058,"5 Stokes Street, Bentley Valley 6058",1,0,-32.01828974,116.0448126,0455109055,0499964678,LOW
+William,Quentin,Unit 3,41,Brennan,Street,Greenville,6021,"Unit 3, 41 Brennan Street, Greenville 6021",4,2,-31.87021779,115.9119542,(08) 98528319,0412003025,LOW
+Williams,Derek,Unit 7,42,Chambers,Road,East Cubbin,6032,"Unit 7, 42 Chambers Road, East Cubbin 6032",2,3,-32.00527957,115.9248147,(08) 61727986,0414831480,LOW
+Williams,Whitney,Unit 2,34,Jarvis,Road,South Cobrook,6051,"Unit 2, 34 Jarvis Road, South Cobrook 6051",2,1,-31.8238429,116.0263504,(08) 68725951,0412767067,LOW
+Williamson,Baker,Unit 11,38,Cohen,Street,Swan Brook,6078,"Unit 11, 38 Cohen Street, Swan Brook 6078",1,2,-32.08637639,116.2080551,0412003025,0415301724,HIGH
+Wise,Flavia,,14,Harding,Street,Cubbin,6048,"14 Harding Street, Cubbin 6048",2,3,-31.80191801,116.0570463,0412767067,0418616060,LOW
+Wise,Illana,,55,Roach,Street,Swan Brook,6048,"55 Roach Street, Swan Brook 6048",2,2,-32.06140646,115.9726944,0414831480,0421792991,LOW
+Wise,Fritz,,39,Mosley,Street,High Canning,6056,"39 Mosley Street, High Canning 6056",1,0,-31.82936114,116.033474,0415301724,0423935730,LOW
+Woodard,Bertha,,54,Ward,Road,Marricup,6037,"54 Ward Road, Marricup 6037",1,5,-32.00512003,116.0558382,0418616060,0425528780,MED
+Woods,Quemby,,39,Goodwin,Road,Mount Woorup,6058,"39 Goodwin Road, Mount Woorup 6058",5,0,-31.83364093,115.9456901,0421792991,0428725674,LOW
+Wooten,Deanna,,36,Jordan,Road,Albadale,6037,"36 Jordan Road, Albadale 6037",2,2,-31.86093232,116.2765621,0423935730,0428738631,HIGH
+Wright,Uta,,19,Sweeney,Street,St Spencer,6064,"19 Sweeney Street, St Spencer 6064",5,3,-32.00860285,116.067676,0425528780,0429645208,LOW
+Wyatt,Brooke,,35,Boone,Street,Lesley Mills,6032,"35 Boone Street, Lesley Mills 6032",1,3,-32.0167429,115.9879696,0428725674,0429713317,MED
+Wyatt,Amber,,13,Duffy,Road,Forest Glade,6059,"13 Duffy Road, Forest Glade 6059",1,0,-31.95417352,116.0164119,0428738631,0430303236,MED
+York,Willow,,15,Merritt,Street,Henley Creek,6032,"15 Merritt Street, Henley Creek 6032",3,1,-32.06505508,115.917174,0429645208,0432600446,MED
+York,Adena,,7,Hays,Street,Stonefield,6059,"7 Hays Street, Stonefield 6059",1,3,-32.05684315,115.9733962,0429713317,0433516888,HIGH
+Zamora,Cecilia,,17,King,Road,Forest Glade,6084,"17 King Road, Forest Glade 6084",1,1,-31.81849064,116.2599533,0430303236,0433540376,LOW
