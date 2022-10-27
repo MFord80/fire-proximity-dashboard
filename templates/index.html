@@ -35,16 +35,33 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-3">
-          <div>
-            <h5>Incident</h5>
-            <!-- <select id="selDataset" onchange="optionChanged(this.value)"></select> -->
+        <div class="col-md-3 bg">
+          <div class="panel panel-primary section">
+            <div>
+              <h4>Incident Information</h4>
+            </div> 
+            <div>
+              <img src="https://www.emergency.wa.gov.au/public/icons/icon_svg/Bushfire_active.svg" class="icon" width="40" height="40"> <h5>Bushfire</h5> 
+              <p>Lesmurdie: South of Pomeroy Road. North of Welshpool Road East. West of Canning Road.  </p>
+              <p>The fire is uncontrolled and heading in a north by northwest direction.</p>
+            </div>
           </div>
-          <div>
-            <h5>Client Information</h5>
+          <br>
+          <div class="panel panel-primary section">           
+            <div>
+              <h4>Client Information</h4>
+            </div>
+            <div id="sample-metadata" class="panel-body" style="padding: 5px"></div>
+              <p id="name"></p>
+              <p id="address"></p>
+              <p id="adults"></p>
+              <p id="children"></p>
+              <p id="phone"></p>
+              <p id="risk"></p>
           </div>
+          <br>
           <div>
-            <h5>View</h5>
+            <h4>View</h4>
             <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
               <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
               <label class="btn btn-outline-primary" for="btnradio1">State</label>
@@ -67,14 +84,6 @@
         </div>
       </div>
     </div>
-
-        
-
-
-
-
-
-
 
     <!-- Custom JavaScript file -->
     <script type="text/javascript" src="static/js/fire-proximity.js"></script>

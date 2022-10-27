@@ -3,6 +3,37 @@ body {
   margin: 0px;
 }
 
+h1 {
+  padding: 15px;
+  padding-bottom: 25px;
+  background-color: rgba(239, 123, 51, 0.906);
+}
+
+h4 {
+  padding: 5px
+}
+
+h5 {
+  padding: 10px
+}
+
+p {
+  margin-left: 5px
+}
+
+.section {
+  background-color: antiquewhite;
+  padding: 5px;
+  border-color: #d25231 ;
+  border: true;
+}
+
+.icon {
+  float: right;
+  padding-right: 10px;
+  margin-right: 20px;
+}
+
 #map {
   height: 800px;
 }

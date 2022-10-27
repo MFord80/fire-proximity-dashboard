@@ -23,7 +23,6 @@ var clientIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png",
   iconAnchor: [24,81]
 });
-
 var schoolIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
   iconAnchor: [12,40]
@@ -37,6 +36,18 @@ var agedCareIcon = L.icon({
   iconAnchor: [12,40]
 });
 
+// Client information function
+function clientInfo(index) {
+  d3.json("/clients").then(function(data) {
+      d3.select("#name").text(`Name : ${data[index].first_name} ${data[index].last_name}`);
+      d3.select("#address").text(`Address : ${data[index].full_address}`);
+      d3.select("#adults").text(`Number of Adults : ${data[index].adults}`);
+      d3.select("#children").text(`Number of Children : ${data[index].children}`);
+      d3.select("#phone").text(`Phone : ${data[index].phone}`);
+      d3.select("#risk").text(`Risk : ${data[index].risk}`);
+  });
+};
+
 // Nested Overlay layers
 // School layer
 $.getJSON("/schools", (function(response) {
@@ -48,114 +59,124 @@ $.getJSON("/schools", (function(response) {
       schoolMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: schoolIcon}));
     }
   }
-// Hospital layer
-$.getJSON("/hospitals", (function(response) {
-  features = response.features;
-  const hospitalMarkers =[]
-  for (let i = 0; i < features.length; i++) {
-    let location = features[i].geometry;
-    if(location){
-      hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}));
-    }
-  }
-// Aged Care Facility layer
-d3.csv("/agedcare").then(function(response) {
-  features = response
-  const agedCareMarkers =[]
-  for (let i = 0; i < features.length; i++) {
-    let location = features[i];
-    if(location){
-      agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
-    }
-  }
-// Fire hotspots layer
-$.getJSON("/hotspots", (function(response) {
-  features = response
-  hotspotCircles = []
-    for (let i = 0; i < Object.keys(features).length; i++) {
-      if (features[String(i)].temperature < 330) {
-        heat = "#ffcc00"
-      } else if (features[String(i)].temperature < 360) {
-        heat = "#e65c00"
-      } else {
-        heat = "#cc0000"
-      };
-      let location = features[String(i)].coordinates;
+  // Hospital layer
+  $.getJSON("/hospitals", (function(response) {
+    features = response.features;
+    const hospitalMarkers =[]
+    for (let i = 0; i < features.length; i++) {
+      let location = features[i].geometry;
       if(location){
-        hotspotCircles.push(L.circle([location[0], location[1]], {
-          color: heat,
-          opacity: 0,
-          fillColor: heat,
-          fillOpacity: 0.5,
-          radius: 200 
-      }))
+        hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}));
+      }
     }
-  }
-// // Aged Care Facility layer
-// d3.csv("/agedcare").then(function(response) {
-//   features = response
-//   const agedCareMarkers =[]
-//   for (let i = 0; i < features.length; i++) {
-//     let location = features[i];
-//     if(location){
-//       agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
-//     }
-//   }
-      // Layer group variables
-      let hotspots = L.layerGroup(hotspotCircles)
-      let schools = L.layerGroup(schoolMarkers)
-      let hospitals = L.layerGroup(hospitalMarkers)
-      let agedCare = L.layerGroup(agedCareMarkers)
+    // Aged Care Facility layer
+    d3.csv("/agedcare").then(function(response) {
+      features = response
+      const agedCareMarkers =[]
+      for (let i = 0; i < features.length; i++) {
+        let location = features[i];
+        if(location){
+          agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
+        }
+      }
+      // Fire hotspots layer
+      $.getJSON("/hotspots", (function(response) {
+        features = response
+        hotspotCircles = []
+          for (let i = 0; i < Object.keys(features).length; i++) {
+            if (features[String(i)].temperature < 330) {
+              heat = "#ffcc00"
+            } else if (features[String(i)].temperature < 360) {
+              heat = "#e65c00"
+            } else {
+              heat = "#cc0000"
+            };
+            let location = features[String(i)].coordinates;
+            if(location){
+              hotspotCircles.push(L.circle([location[0], location[1]], {
+                color: heat,
+                opacity: 0,
+                fillColor: heat,
+                fillOpacity: 0.5,
+                radius: 200 
+            }))
+          }
+        }
+        // Clients layer
+        $.getJSON("/clients", (function(response) {
+          features = response;
+          const clientMarkers =[]
+          for (let i = 0; i < features.length; i++) {
+            let location = features[i];
+            if(location){
+              let clientMarker = L.marker([location.lat, location.long], {icon: clientIcon});
+              clientMarker.index = i;
+              clientMarker.on("click", clientInfo(i));
+              clientMarkers.push(clientMarker)
+            }
+          }
+          // Layer group variables
+          let hotspots = L.layerGroup(hotspotCircles)
+          let schools = L.layerGroup(schoolMarkers)
+          let hospitals = L.layerGroup(hospitalMarkers)
+          let agedCare = L.layerGroup(agedCareMarkers)
+          let clients = L.layerGroup(clientMarkers)
 
-      // Layer variables
-      var baseMap = {
-        "Streetmap": osm,
-        "Toner": Stamen_TonerLite,
-        "Topographic": OpenTopoMap
-      };
-        
-      var overlayMaps = {
-        "Hotspots": hotspots,
-        "Schools": schools,
-        "Hospitals": hospitals,
-        "Aged Care Facilities": agedCare
-      };
-      
-      // Map variable
-      var Map = L.map("map", {
-        center: [-24.76, 121.14],
-        zoom: 5.5,
-        zoomSnap: 0.5,
-        layers: [osm, hotspots]
-      });
 
-      // Functions for view selection radio buttons
-      let stateSelect = d3.select("#btnradio1");
-      let metroSelect = d3.select("#btnradio2");
-      let incidentSelect = d3.select("#btnradio3");
+          // Layer variables
+          var baseMap = {
+            "Streetmap": osm,
+            "Toner": Stamen_TonerLite,
+            "Topographic": OpenTopoMap
+          };
+            
+          var overlayMaps = {
+            "Hotspots": hotspots,
+            "Clients": clients,
+            "Schools": schools,
+            "Hospitals": hospitals,
+            "Aged Care Facilities": agedCare
+          };
+          
+          // Map variable
+          var Map = L.map("map", {
+            center: [-24.76, 121.14],
+            zoom: 5.5,
+            zoomSnap: 0.5,
+            layers: [osm, hotspots]
+          });
 
-      stateSelect.on("click", function() {
-        Map.setView([-24.76, 121.14], 5.5);
-      });
-      metroSelect.on("click", function() {
-        Map.setView([-32.12, 116.13], 10);
-      });
-      incidentSelect.on("click", function() {
-        Map.setView([-31.95, 116.1], 13);  
-      });
-      
-      // Layer control
-      L.control.layers(baseMap, overlayMaps, {
-        collapsed: false
-      }).addTo(Map);  
+          // Functions for view selection radio buttons
+          let stateSelect = d3.select("#btnradio1");
+          let metroSelect = d3.select("#btnradio2");
+          let incidentSelect = d3.select("#btnradio3");
+
+          stateSelect.on("click", function() {
+            Map.setView([-24.76, 121.14], 5.5);
+          });
+          metroSelect.on("click", function() {
+            Map.setView([-32.12, 116.13], 10);
+          });
+          incidentSelect.on("click", function() {
+            Map.setView([-32.01, 116.06], 15);  
+          });
+          
+          // Layer control
+          L.control.layers(baseMap, overlayMaps, {
+            collapsed: false
+          }).addTo(Map);
+        }));
       }));
-    });
+    }); 
   }));
 }));
 
 
 
-
+          // // Hardcoded On click clients
+          // L.marker([-32.02275483, 116.0517287],{icon: clientIcon}).addTo(Map).on("click", clientInfo(222));
+          // L.marker([-32.00856594, 116.0753284],{icon: clientIcon}).addTo(Map).on("click", clientInfo(279));
+          // L.marker([-32.00512003, 116.0558382],{icon: clientIcon}).addTo(Map).on("click", clientInfo(491));
 
 
 
