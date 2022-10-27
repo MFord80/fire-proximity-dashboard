@@ -19,8 +19,16 @@ var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'
 });
 
 // Icon variables
-var clientIcon = L.icon({
+var clientLowIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png",
+  iconAnchor: [24,81]
+});
+var clientMedIcon = L.icon({
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png",
+  iconAnchor: [24,81]
+});
+var clientHighIcon = L.icon({
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png",
   iconAnchor: [24,81]
 });
 var schoolIcon = L.icon({
@@ -37,7 +45,8 @@ var agedCareIcon = L.icon({
 });
 
 // Client information function
-function clientInfo(index) {
+function clientInfo(e) {
+  var index = e.target.index
   d3.json("/clients").then(function(data) {
       d3.select("#name").text(`Name : ${data[index].first_name} ${data[index].last_name}`);
       d3.select("#address").text(`Address : ${data[index].full_address}`);
@@ -56,7 +65,7 @@ $.getJSON("/schools", (function(response) {
   for (let i = 0; i < features.length; i++) {
     let location = features[i].geometry;
     if(location){
-      schoolMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: schoolIcon}));
+      schoolMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: schoolIcon}).bindPopup("<strong>" + features[i].properties.schoolname + "</strong>" + "<p>Students: " + features[i].properties.totalschoo + "</p>"));
     }
   }
   // Hospital layer
@@ -66,7 +75,7 @@ $.getJSON("/schools", (function(response) {
     for (let i = 0; i < features.length; i++) {
       let location = features[i].geometry;
       if(location){
-        hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}));
+        hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}).bindPopup("<strong>" + features[i].properties.establishment_name + "</strong>"));
       }
     }
     // Aged Care Facility layer
@@ -76,7 +85,7 @@ $.getJSON("/schools", (function(response) {
       for (let i = 0; i < features.length; i++) {
         let location = features[i];
         if(location){
-          agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
+          agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}).bindPopup("<strong>" + features[i]["Service Name"] + "</strong>" + "<p>Residents: " + features[i]["Residential Places"] + "</p>"));
         }
       }
       // Fire hotspots layer
@@ -108,10 +117,21 @@ $.getJSON("/schools", (function(response) {
           const clientMarkers =[]
           for (let i = 0; i < features.length; i++) {
             let location = features[i];
+            if (features[i].risk == "LOW") {
+              riskLevel = clientLowIcon
+              riskText = "Low"
+            } else if (features[i].risk == "MED") {
+              riskLevel = clientMedIcon
+              riskText = "Medium"
+            } else {
+              riskLevel = clientHighIcon
+              riskText = "High"
+            };
             if(location){
-              let clientMarker = L.marker([location.lat, location.long], {icon: clientIcon});
+              let clientMarker = L.marker([location.lat, location.long], {icon: riskLevel});
+              // .bindPopup("<strong>" + features[i].first_name + " " + features[i].last_name + " - " + riskText + " risk</strong>" + "<p>Address: " + features[i].full_address + "</p>"+ "<span>Number of Adults: " + features[i].adults + "</span><br><span>Number of Children: " + features[i].children + "</span>");
               clientMarker.index = i;
-              clientMarker.on("click", clientInfo(i));
+              clientMarker.on("click", clientInfo);
               clientMarkers.push(clientMarker)
             }
           }
@@ -170,6 +190,8 @@ $.getJSON("/schools", (function(response) {
     }); 
   }));
 }));
+
+
 
 
 
