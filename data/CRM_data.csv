@@ -1,4 +1,4 @@
-﻿Last_Name,First_Name,Unit,Street_Number,Street_Name,Street_Type,Suburb,Postcode,Full_Address,Number_Adults,Number_Children,Lat,Long,Primaty_Phone,Emergency_Phone,Risk
+Last_Name,First_Name,Unit,Street_Number,Street_Name,Street_Type,Suburb,Postcode,Full_Address,Number_Adults,Number_Children,Lat,Long,Primary_Phone,Emergency_Phone,Risk
 Abbott,Venus,,15,Christensen,Avenue,Stonefield,6037,"15 Christensen Avenue, Stonefield 6037",1,0,-31.86319393,115.9719558,0417653699,0410031384,LOW
 Acevedo,Hayfa,,40,Kline,Street,Stonefield,6032,"40 Kline Street, Stonefield 6037",3,0,-32.03412203,115.9570962,0459935769,0410122956,MED
 Adkins,Thomas,,35,Howe,Street,Billayong,6032,"35 Howe Street, Billayong 6032",1,2,-32.07632594,115.9411167,0428012185,0410441931,LOW
