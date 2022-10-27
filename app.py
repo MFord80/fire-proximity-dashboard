@@ -3,8 +3,11 @@ from flask import Flask, render_template
 import requests
 import json
 
+
 # Create app, pass __name__
 app = Flask(__name__)
+
+# Define /clients route
 
 # Define index route
 @app.route("/")
@@ -30,6 +33,8 @@ def hospitals():
 @app.route("/agedcare")
 def agedcare():
     return render_template("WA-30-June-2022.csv")
+
+
 
 # Define /incidents route, run scrape application
 # @app.route("/incidents")

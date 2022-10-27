@@ -3,7 +3,17 @@ body {
   margin: 0px;
 }
 
-#map,
+#map {
+  height: 800px;
+}
+
+.btn {
+  color: #FFFFFF;
+  border-color: #000000 !important; 
+  background-color: #b64b1e
+  }
+    
+
 body,
 html {
   height: 100%;

@@ -19,13 +19,18 @@ var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'
 });
 
 // Icon variables
+var clientIcon = L.icon({
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png",
+  iconAnchor: [24,81]
+});
+
 var schoolIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
   iconAnchor: [12,40]
 });
 var hospitalIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png",
-  iconAnchor: [24,81]
+  iconAnchor: [12,40]
 });
 var agedCareIcon = L.icon({
   iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png",
@@ -43,49 +48,59 @@ $.getJSON("/schools", (function(response) {
       schoolMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: schoolIcon}));
     }
   }
-  // Hospital layer
-  $.getJSON("/hospitals", (function(response) {
-    features = response.features;
-    const hospitalMarkers =[]
-    for (let i = 0; i < features.length; i++) {
-      let location = features[i].geometry;
-      if(location){
-        hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}));
-      }
+// Hospital layer
+$.getJSON("/hospitals", (function(response) {
+  features = response.features;
+  const hospitalMarkers =[]
+  for (let i = 0; i < features.length; i++) {
+    let location = features[i].geometry;
+    if(location){
+      hospitalMarkers.push(L.marker([location.coordinates[1], location.coordinates[0]], {icon: hospitalIcon}));
     }
-    // Aged Care Facility layer
-    d3.csv("/agedcare").then(function(response) {
-      features = response
-      const agedCareMarkers =[]
-      for (let i = 0; i < features.length; i++) {
-        let location = features[i];
-        if(location){
-          agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
-        }
-      }
-      // Fire hotspots layer
-      $.getJSON("/hotspots", (function(response) {
-        features = response
-        hotspotCircles = []
-        for (let i = 0; i < Object.keys(features).length; i++) {
-          if (features[String(i)].temperature < 330) {
-            heat = "#ffcc00"
-          } else if (features[String(i)].temperature < 360) {
-            heat = "#e65c00"
-          } else {
-            heat = "#cc0000"
-          };
-          let location = features[String(i)].coordinates;
-          if(location){
-            hotspotCircles.push(L.circle([location[0], location[1]], {
-              color: heat,
-              opacity: 0,
-              fillColor: heat,
-              fillOpacity: 0.5,
-              radius: 200 
-            }))
-          }
-        }
+  }
+// Aged Care Facility layer
+d3.csv("/agedcare").then(function(response) {
+  features = response
+  const agedCareMarkers =[]
+  for (let i = 0; i < features.length; i++) {
+    let location = features[i];
+    if(location){
+      agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
+    }
+  }
+// Fire hotspots layer
+$.getJSON("/hotspots", (function(response) {
+  features = response
+  hotspotCircles = []
+    for (let i = 0; i < Object.keys(features).length; i++) {
+      if (features[String(i)].temperature < 330) {
+        heat = "#ffcc00"
+      } else if (features[String(i)].temperature < 360) {
+        heat = "#e65c00"
+      } else {
+        heat = "#cc0000"
+      };
+      let location = features[String(i)].coordinates;
+      if(location){
+        hotspotCircles.push(L.circle([location[0], location[1]], {
+          color: heat,
+          opacity: 0,
+          fillColor: heat,
+          fillOpacity: 0.5,
+          radius: 200 
+      }))
+    }
+  }
+// // Aged Care Facility layer
+// d3.csv("/agedcare").then(function(response) {
+//   features = response
+//   const agedCareMarkers =[]
+//   for (let i = 0; i < features.length; i++) {
+//     let location = features[i];
+//     if(location){
+//       agedCareMarkers.push(L.marker([location.Latitude, location.Longitude], {icon: agedCareIcon}));
+//     }
+//   }
       // Layer group variables
       let hotspots = L.layerGroup(hotspotCircles)
       let schools = L.layerGroup(schoolMarkers)
@@ -108,9 +123,25 @@ $.getJSON("/schools", (function(response) {
       
       // Map variable
       var Map = L.map("map", {
-        center: [-31.95, 116.1],
-        zoom: 13,
+        center: [-24.76, 121.14],
+        zoom: 5.5,
+        zoomSnap: 0.5,
         layers: [osm, hotspots]
+      });
+
+      // Functions for view selection radio buttons
+      let stateSelect = d3.select("#btnradio1");
+      let metroSelect = d3.select("#btnradio2");
+      let incidentSelect = d3.select("#btnradio3");
+
+      stateSelect.on("click", function() {
+        Map.setView([-24.76, 121.14], 5.5);
+      });
+      metroSelect.on("click", function() {
+        Map.setView([-32.12, 116.13], 10);
+      });
+      incidentSelect.on("click", function() {
+        Map.setView([-31.95, 116.1], 13);  
       });
       
       // Layer control
